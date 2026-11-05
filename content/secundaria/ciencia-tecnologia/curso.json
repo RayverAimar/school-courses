@@ -1,0 +1,35 @@
+{
+  "id": "cyt-secundaria",
+  "title": "Ciencia y Tecnología",
+  "level": "Secundaria",
+  "grades": "1.° y 2.° de secundaria",
+  "tagline": "Todo lo que puede entrar en Ciencia y Tecnología, en orden y poco a poco, con práctica tipo COAR y ECE.",
+  "outcomes": [
+    "Explicar con tus palabras la materia, la energía, los seres vivos, la Tierra y el universo.",
+    "Resolver preguntas de indagación: variables, hipótesis y conclusiones a partir de tablas y gráficos.",
+    "Reconocer los errores típicos que ponen como alternativas en los exámenes."
+  ],
+  "modules": [
+    "01-la-ciencia-y-la-indagacion",
+    "02-la-materia-y-sus-estados",
+    "03-sustancias-y-mezclas",
+    "04-el-atomo-y-la-tabla-periodica",
+    "05-cambios-fisicos-y-quimicos",
+    "06-energia-trabajo-y-maquinas",
+    "07-calor-y-temperatura",
+    "08-fuerza-y-movimiento",
+    "09-ondas-luz-y-sonido",
+    "10-la-celula",
+    "11-nutricion-de-los-seres-vivos",
+    "12-reproduccion-y-coordinacion",
+    "13-evolucion-y-biodiversidad",
+    "14-ecosistemas",
+    "15-la-tierra-el-clima-y-el-universo",
+    "16-tecnologia-y-sociedad"
+  ],
+  "exams": [
+    "simulacro-coar-2027-1",
+    "simulacro-coar-2027-2",
+    "simulacro-coar-2027-3"
+  ]
+}

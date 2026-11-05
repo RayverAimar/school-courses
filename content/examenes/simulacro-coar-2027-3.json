@@ -1,0 +1,741 @@
+{
+ "id": "simulacro-coar-2027-3",
+ "title": "Simulacro 3",
+ "goal": "COAR 2027",
+ "kicker": "Prueba de habilidades cognitivas · Fase I",
+ "minutes": 120,
+ "areas": [
+  {
+   "id": "com",
+   "title": "Comunicación"
+  },
+  {
+   "id": "mat",
+   "title": "Matemática"
+  },
+  {
+   "id": "cyt",
+   "title": "Ciencia y Tecnología"
+  }
+ ],
+ "contexts": {
+  "t1": {
+   "title": "Texto 1",
+   "html": "<div class=\"lectura\"><h3>La leyenda de Huacachina</h3>\n<p>Cuentan los antiguos pobladores de Ica que, hace muchísimo tiempo, donde hoy se levantan inmensas dunas, no había arena, sino un valle verde, cruzado por acequias y sombreado por huarangos. En ese valle vivía una joven llamada Huacca China, cuya belleza era famosa en toda la región. Le gustaba bañarse en un pequeño puquio escondido entre los árboles y, después del baño, peinar sus largos cabellos mirándose en un espejo que nunca dejaba en casa.</p>\n<p>Una tarde, mientras se peinaba a la orilla del puquio, Huacca China vio en el espejo, además de su rostro, el de un cazador que la observaba en silencio desde los huarangos. Asustada, se levantó de un salto y echó a correr. En la huida, el espejo resbaló de sus manos y se hizo pedazos contra el suelo; de los fragmentos brotó el agua que formó una laguna verde y tranquila. El largo manto que la joven arrastraba al correr fue cubriendo el valle y se convirtió en la arena que hoy forma las dunas.</p>\n<p>Agotada, Huacca China volvió sobre sus pasos y se lanzó a la laguna, donde se transformó en sirena. Por eso, dicen los iqueños, en las noches de luna llena se la oye cantar en medio del agua, y cada cierto tiempo arrastra hacia el fondo a algún nadador desprevenido que se aleja de la orilla.</p>\n<p>Hoy, Huacachina es uno de los lugares más visitados de Ica. Sin embargo, la laguna ha perdido buena parte de su agua natural, sobre todo por el uso intensivo del agua subterránea en el valle, y desde hace años se le añade agua traída por tuberías para que no desaparezca. Los guías todavía cuentan la leyenda a los visitantes, aunque pocos se detienen a pensar que la laguna nacida de un espejo mágico necesita ahora de la mano humana para seguir existiendo.</p></div>"
+  },
+  "t2": {
+   "title": "Texto 2",
+   "html": "<div class=\"lectura\">\n<div class=\"info\">\n <div class=\"info-h\"><div class=\"info-t\">CIRCUITOS DEL VALLE DEL MANTARO</div><div class=\"info-s\">Bus turístico Valle Vivo · Salidas desde la Plaza de la Constitución de Huancayo · Incluye guía</div></div>\n <div class=\"info-g\">\n  <div class=\"card wide\" style=\"border-bottom:1px solid #000\"><div class=\"ct\">Horarios y paradas</div>\n   <table class=\"dt\" style=\"margin:4px auto 4px;font-size:9.5pt\"><tr><th>Lugar</th><th>Hora</th><th>¿Qué se visita?</th></tr><tr><td style=\"text-align:left\"><b>Recorrido A</b> · Salida de Huancayo</td><td style=\"white-space:nowrap\">9:00</td><td style=\"text-align:left\"></td></tr><tr><td style=\"text-align:left\">Cochas Chico</td><td style=\"white-space:nowrap\">9:30 a 10:30</td><td style=\"text-align:left\">Taller de mates burilados</td></tr><tr><td style=\"text-align:left\">Hualhuas</td><td style=\"white-space:nowrap\">11:00 a 11:45</td><td style=\"text-align:left\">Tejidos de lana de oveja y alpaca</td></tr><tr><td style=\"text-align:left\">San Jerónimo de Tunán</td><td style=\"white-space:nowrap\">12:00 a 12:45</td><td style=\"text-align:left\">Joyas de filigrana de plata</td></tr><tr><td style=\"text-align:left\">Llegada a Huancayo</td><td style=\"white-space:nowrap\">13:30</td><td style=\"text-align:left\"></td></tr><tr><td style=\"text-align:left\"><b>Recorrido B</b> · Salida de Huancayo</td><td style=\"white-space:nowrap\">14:00</td><td style=\"text-align:left\"></td></tr><tr><td style=\"text-align:left\">Concepción</td><td style=\"white-space:nowrap\">14:40 a 15:40</td><td style=\"text-align:left\">Convento de Santa Rosa de Ocopa</td></tr><tr><td style=\"text-align:left\">Ingenio</td><td style=\"white-space:nowrap\">16:00 a 17:00</td><td style=\"text-align:left\">Criadero de truchas</td></tr><tr><td style=\"text-align:left\">Llegada a Huancayo</td><td style=\"white-space:nowrap\">18:00</td><td style=\"text-align:left\"></td></tr></table>\n   <div class=\"nota\" style=\"font-size:9pt\">El recorrido A sale de martes a domingo. El recorrido B sale de lunes a sábado.</div></div>\n  <div class=\"card\" style=\"border-right:1px solid #000\"><div class=\"ct\">Tarifas por recorrido</div><ul class=\"tips\"><li>Adultos: S/ 30</li><li>Estudiantes con carné: S/ 20</li><li>Niños de 3 a 11 años: S/ 15</li><li>Menores de 3 años: gratis (sin asiento)</li></ul>\n   <div style=\"margin-top:6px\"><b>Combo A + B el mismo día:</b> S/ 50 por persona. El combo no se suma a otros descuentos.</div></div>\n  <div class=\"card\" style=\"border-right:none;padding:4px 6px\"><svg viewBox=\"0 0 360 242\" width=\"330\" class=\"fig\"><style>.c{font-size:11px;font-weight:700;fill:#111}.m{font-size:10px;fill:#333;paint-order:stroke;stroke:#fafafa;stroke-width:3px}</style><rect x=\"0\" y=\"0\" width=\"360\" height=\"242\" fill=\"#fafafa\"/><line x1=\"165\" y1=\"195\" x2=\"48\" y2=\"72\" stroke=\"#9a9a9a\" stroke-width=\"3\" stroke-dasharray=\"8 4\"/><line x1=\"48\" y1=\"72\" x2=\"128\" y2=\"24\" stroke=\"#9a9a9a\" stroke-width=\"3\" stroke-dasharray=\"8 4\"/><line x1=\"128\" y1=\"24\" x2=\"165\" y2=\"195\" stroke=\"#9a9a9a\" stroke-width=\"3\" stroke-dasharray=\"8 4\"/><line x1=\"165\" y1=\"195\" x2=\"275\" y2=\"150\" stroke=\"#222\" stroke-width=\"2.5\"/><line x1=\"275\" y1=\"150\" x2=\"285\" y2=\"60\" stroke=\"#222\" stroke-width=\"2.5\"/><line x1=\"285\" y1=\"60\" x2=\"196\" y2=\"104\" stroke=\"#222\" stroke-width=\"2.5\"/><line x1=\"196\" y1=\"104\" x2=\"165\" y2=\"195\" stroke=\"#222\" stroke-width=\"2.5\"/><text x=\"236\" y=\"186\" class=\"m\" text-anchor=\"start\">30 min</text><text x=\"289\" y=\"104\" class=\"m\" text-anchor=\"start\">30 min</text><text x=\"242\" y=\"76\" class=\"m\" text-anchor=\"middle\">15 min</text><text x=\"187\" y=\"150\" class=\"m\" text-anchor=\"start\">45 min</text><text x=\"98\" y=\"140\" class=\"m\" text-anchor=\"end\">40 min</text><text x=\"82\" y=\"40\" class=\"m\" text-anchor=\"end\">20 min</text><text x=\"140\" y=\"100\" class=\"m\" text-anchor=\"end\">60 min</text><circle cx=\"165\" cy=\"195\" r=\"6\" fill=\"#111\"/><text x=\"165\" y=\"215\" class=\"c\" text-anchor=\"middle\">Huancayo</text><circle cx=\"275\" cy=\"150\" r=\"4.5\" fill=\"#111\"/><text x=\"282\" y=\"154\" class=\"c\" text-anchor=\"start\">Cochas Chico</text><circle cx=\"285\" cy=\"60\" r=\"4.5\" fill=\"#111\"/><text x=\"293\" y=\"58\" class=\"c\" text-anchor=\"start\">Hualhuas</text><circle cx=\"196\" cy=\"104\" r=\"4.5\" fill=\"#111\"/><text x=\"204\" y=\"117\" class=\"c\" text-anchor=\"start\">San Jerónimo</text><text x=\"204\" y=\"129\" class=\"c\" text-anchor=\"start\">de Tunán</text><circle cx=\"48\" cy=\"72\" r=\"4.5\" fill=\"#111\"/><text x=\"40\" y=\"60\" class=\"c\" text-anchor=\"start\">Concepción</text><circle cx=\"128\" cy=\"24\" r=\"4.5\" fill=\"#111\"/><text x=\"136\" y=\"20\" class=\"c\" text-anchor=\"start\">Ingenio</text><line x1=\"10\" y1=\"200\" x2=\"32\" y2=\"200\" stroke=\"#222\" stroke-width=\"2.5\"/><text x=\"36\" y=\"204\" class=\"m\">Recorrido A</text><line x1=\"10\" y1=\"218\" x2=\"32\" y2=\"218\" stroke=\"#9a9a9a\" stroke-width=\"3\" stroke-dasharray=\"8 4\"/><text x=\"36\" y=\"222\" class=\"m\">Recorrido B</text><text x=\"352\" y=\"236\" class=\"m\" text-anchor=\"end\" style=\"font-style:italic\">Mapa esquemático, no está a escala</text></svg></div>\n  <div class=\"card wide\"><div class=\"ct\">Ten en cuenta</div><ul class=\"tips two\"><li>Preséntate 15 minutos antes de la salida.</li><li>No incluye almuerzo ni la entrada al convento.</li><li>Lleva abrigo: por la tarde la temperatura baja rápidamente.</li><li>Los talleres venden sus productos; el pago es en efectivo.</li></ul></div>\n </div>\n</div></div>"
+  },
+  "t3": {
+   "title": "Texto 3",
+   "html": "<div class=\"lectura\"><h3>«Los glaciares son la caja de ahorro de agua de los Andes»</h3>\n<p>Desde Huaraz, la glacióloga Rosa Ventura estudia hace veinte años los nevados de la cordillera Blanca. Conversamos con ella sobre lo que está pasando con el hielo de nuestras montañas.</p>\n<p><b>—¿Qué ha ocurrido con los glaciares del Perú en las últimas décadas?</b></p>\n<p>—Han retrocedido de forma acelerada. Desde la década de 1960, el país ha perdido más de la mitad de la superficie que cubrían sus glaciares. Algunos nevados pequeños, como el Pastoruri, que antes recibía a miles de visitantes que querían caminar sobre el hielo, hoy son apenas una sombra de lo que fueron.</p>\n<p><b>—¿Por qué los llama «caja de ahorro»?</b></p>\n<p>—Porque en la temporada de lluvias el glaciar guarda agua en forma de hielo y, en los meses secos, de mayo a setiembre, la va soltando poco a poco al derretirse. Gracias a eso, muchos ríos de la sierra y de la costa llevan agua todo el año, aunque no llueva. El problema es que estamos gastando los ahorros más rápido de lo que se depositan.</p>\n<p><b>—Sin embargo, algunos agricultores dicen que hoy el río trae más agua que antes. ¿No es una buena noticia?</b></p>\n<p>—Es comprensible que lo piensen, pero es una ilusión pasajera. Si el hielo se derrite más rápido, al principio baja más agua; es como sacar de golpe mucho dinero de la cuenta. Pero cuando el glaciar se haya reducido lo suficiente, el caudal empezará a disminuir, y en la época seca el río podría llevar mucha menos agua que hoy. En algunas cuencas pequeñas, eso ya está ocurriendo.</p>\n<p><b>—¿Qué hace que el hielo se derrita más rápido?</b></p>\n<p>—La causa principal es el aumento de la temperatura del planeta, pero hay factores locales que lo empeoran. El hollín de las quemas de pastos y el polvo de las trochas se depositan sobre la nieve y la oscurecen. Una superficie oscura absorbe más radiación solar que una blanca, así que se derrite antes. En algunos nevados hemos medido que la nieve sucia se derrite bastante más rápido que la limpia.</p>\n<p><b>—¿El retroceso de los glaciares trae otros riesgos?</b></p>\n<p>—Sí. Al retirarse, el hielo deja lagunas que pueden crecer mucho. Si un bloque de hielo cae en una de ellas, puede provocar un desborde violento: un aluvión. Huaraz lo sabe bien, porque en 1941 un aluvión de la laguna Palcacocha destruyó parte de la ciudad. Por eso, hoy varias lagunas se vigilan con sensores y algunas tienen obras para bajar su nivel.</p>\n<p><b>—¿Qué podemos hacer, si el calentamiento es un problema mundial?</b></p>\n<p>—No podemos detener solos el calentamiento, pero sí prepararnos. Las comunidades pueden evitar las quemas, cuidar los humedales de altura que retienen el agua y regar con más eficiencia. Las autoridades deben planificar pensando en que, dentro de unas décadas, habrá menos agua en la época seca. Lo peor que podemos hacer es actuar como si el hielo fuera eterno.</p></div>"
+  },
+  "s1": {
+   "title": "Situación",
+   "html": "<div class=\"situacion\">\n<p>En algunos valles de la costa, como los de Ica, el agua de riego contiene sales. Un grupo de estudiantes preparó cinco tipos de agua con distintas cantidades de sal y regó con cada una tres bandejas iguales, cada una con 40 semillas de quinua de la misma variedad. Todas las bandejas tenían la misma tierra, recibieron 50 mL de agua al día y estuvieron en el mismo lugar del aula. A los siete días contaron las semillas germinadas en cada bandeja y calcularon el promedio.</p>\n<div class=\"fila\"><table class=\"dt\"><tr><th rowspan=\"2\">Sal<br>(g/L)</th><th colspan=\"3\">Semillas germinadas</th><th rowspan=\"2\">Promedio</th></tr><tr><th>Band. 1</th><th>Band. 2</th><th>Band. 3</th></tr><tr><td>0</td><td>37</td><td>38</td><td>36</td><td><b>37</b></td></tr><tr><td>4</td><td>36</td><td>35</td><td>37</td><td><b>36</b></td></tr><tr><td>8</td><td>30</td><td>32</td><td>31</td><td><b>31</b></td></tr><tr><td>12</td><td>21</td><td>19</td><td>20</td><td><b>20</b></td></tr><tr><td>16</td><td>9</td><td>11</td><td>10</td><td><b>10</b></td></tr></table><svg viewBox=\"0 0 290 200\" width=\"270\" class=\"fig\"><style>.a{font-size:10.5px;fill:#444}</style><line x1=\"44\" y1=\"160.0\" x2=\"278\" y2=\"160.0\" stroke=\"#e2e2e2\"/><text x=\"38\" y=\"164.0\" class=\"a\" text-anchor=\"end\">0</text><line x1=\"44\" y1=\"143.0\" x2=\"278\" y2=\"143.0\" stroke=\"#e2e2e2\"/><text x=\"38\" y=\"147.0\" class=\"a\" text-anchor=\"end\">5</text><line x1=\"44\" y1=\"126.0\" x2=\"278\" y2=\"126.0\" stroke=\"#e2e2e2\"/><text x=\"38\" y=\"130.0\" class=\"a\" text-anchor=\"end\">10</text><line x1=\"44\" y1=\"109.0\" x2=\"278\" y2=\"109.0\" stroke=\"#e2e2e2\"/><text x=\"38\" y=\"113.0\" class=\"a\" text-anchor=\"end\">15</text><line x1=\"44\" y1=\"92.0\" x2=\"278\" y2=\"92.0\" stroke=\"#e2e2e2\"/><text x=\"38\" y=\"96.0\" class=\"a\" text-anchor=\"end\">20</text><line x1=\"44\" y1=\"75.0\" x2=\"278\" y2=\"75.0\" stroke=\"#e2e2e2\"/><text x=\"38\" y=\"79.0\" class=\"a\" text-anchor=\"end\">25</text><line x1=\"44\" y1=\"58.0\" x2=\"278\" y2=\"58.0\" stroke=\"#e2e2e2\"/><text x=\"38\" y=\"62.0\" class=\"a\" text-anchor=\"end\">30</text><line x1=\"44\" y1=\"41.0\" x2=\"278\" y2=\"41.0\" stroke=\"#e2e2e2\"/><text x=\"38\" y=\"45.0\" class=\"a\" text-anchor=\"end\">35</text><line x1=\"44\" y1=\"24.0\" x2=\"278\" y2=\"24.0\" stroke=\"#e2e2e2\"/><text x=\"38\" y=\"28.0\" class=\"a\" text-anchor=\"end\">40</text><text x=\"44\" y=\"174\" class=\"a\" text-anchor=\"middle\">0</text><text x=\"96\" y=\"174\" class=\"a\" text-anchor=\"middle\">4</text><text x=\"148\" y=\"174\" class=\"a\" text-anchor=\"middle\">8</text><text x=\"200\" y=\"174\" class=\"a\" text-anchor=\"middle\">12</text><text x=\"252\" y=\"174\" class=\"a\" text-anchor=\"middle\">16</text><line x1=\"44\" y1=\"160\" x2=\"278\" y2=\"160\" stroke=\"#333\"/><line x1=\"44\" y1=\"160\" x2=\"44\" y2=\"20.599999999999994\" stroke=\"#333\"/><polyline points=\"44,34.2 96,37.6 148,54.6 200,92.0 252,126.0\" fill=\"none\" stroke=\"#9a9a9a\" stroke-width=\"2.5\"/><circle cx=\"44\" cy=\"34.2\" r=\"4\" fill=\"#111\"/><circle cx=\"96\" cy=\"37.6\" r=\"4\" fill=\"#111\"/><circle cx=\"148\" cy=\"54.6\" r=\"4\" fill=\"#111\"/><circle cx=\"200\" cy=\"92.0\" r=\"4\" fill=\"#111\"/><circle cx=\"252\" cy=\"126.0\" r=\"4\" fill=\"#111\"/><text x=\"148\" y=\"190\" class=\"a\" text-anchor=\"middle\">Sal en el agua de riego (g/L)</text><text x=\"12\" y=\"92.0\" class=\"a\" transform=\"rotate(-90 12 92.0)\" text-anchor=\"middle\">Semillas germinadas (promedio)</text></svg></div></div>"
+  }
+ },
+ "questions": [
+  {
+   "n": 1,
+   "area": "com",
+   "ctx": "t1",
+   "stem": "Según la leyenda, ¿en qué se convirtió el manto de Huacca China?",
+   "opts": [
+    "En la laguna verde y tranquila donde ella se bañaba.",
+    "En la arena de las dunas que cubrieron el valle.",
+    "En los huarangos desde donde la observaba el cazador.",
+    "En la cola de sirena con la que hoy nada en la laguna."
+   ],
+   "a": 1,
+   "why": "El segundo párrafo lo dice: «El largo manto que la joven arrastraba al correr […] se convirtió en la arena que hoy forma las dunas». La A confunde el manto con el espejo, que es el que dio origen a la laguna. La C y la D mezclan otros elementos del relato."
+  },
+  {
+   "n": 2,
+   "area": "com",
+   "ctx": "t1",
+   "stem": "¿Por qué huyó Huacca China?",
+   "opts": [
+    "Porque el cazador intentó quitarle el espejo que nunca dejaba en casa.",
+    "Porque oyó que los pobladores del valle la buscaban para que cantara.",
+    "Porque descubrió en el espejo que un desconocido la estaba observando.",
+    "Porque quería llegar a la laguna antes de que oscureciera en el valle."
+   ],
+   "a": 2,
+   "why": "Mientras se peinaba, vio en el espejo «el de un cazador que la observaba en silencio» y, «asustada», echó a correr. La A inventa una acción del cazador que el texto no menciona: solo la miraba. La B no aparece en el texto: el canto es de la sirena, al final, y no tiene relación con la huida. La D es imposible: la laguna se formó durante la huida."
+  },
+  {
+   "n": 3,
+   "area": "com",
+   "ctx": "t1",
+   "stem": "Los iqueños dicen que la sirena «arrastra hacia el fondo a algún nadador desprevenido que se aleja de la orilla». ¿Qué función cumple esta creencia entre los pobladores?",
+   "opts": [
+    "Advertir del peligro de nadar en la laguna sin tomar precauciones.",
+    "Explicar con detalle cómo se formó la laguna a partir del espejo.",
+    "Atraer a más turistas con una historia de misterio sobre el lugar.",
+    "Demostrar que en el desierto de Ica existen seres como las sirenas."
+   ],
+   "a": 0,
+   "why": "Muchas leyendas, además de explicar un origen, transmiten una advertencia: aquí, alejarse de la orilla es peligroso. La B corresponde a otra parte de la leyenda (el espejo). La C confunde la intención de los pobladores con el uso turístico actual, del que habla el último párrafo. La D toma la leyenda como si fuera una prueba."
+  },
+  {
+   "n": 4,
+   "area": "com",
+   "ctx": "t1",
+   "stem": "¿Qué rasgo permite afirmar que los tres primeros párrafos forman una leyenda?",
+   "opts": [
+    "Narran hechos históricos, comprobados por los investigadores, que ocurrieron en el valle de Ica hace siglos.",
+    "Presentan animales que hablan y terminan con una enseñanza moral escrita al final.",
+    "Explican el origen de un lugar real mediante hechos fantásticos transmitidos por los pobladores.",
+    "Describen con datos científicos cómo se forman los oasis en medio del desierto costeño."
+   ],
+   "a": 2,
+   "why": "Una leyenda parte de un lugar real (la laguna y las dunas de Ica) y explica su origen con hechos maravillosos, contados de generación en generación: «Cuentan los antiguos pobladores…». La A olvida que hay hechos imposibles, como un espejo que se vuelve laguna. La B describe una fábula, y la D, un texto expositivo."
+  },
+  {
+   "n": 5,
+   "area": "com",
+   "ctx": "t1",
+   "stem": "¿Qué relación hay entre los tres primeros párrafos y el último?",
+   "opts": [
+    "El último demuestra que la leyenda es falsa, porque la laguna fue construida por las personas con agua de tuberías.",
+    "Los primeros cuentan un origen mágico de la laguna; el último muestra que hoy su existencia depende de las personas.",
+    "El último continúa la historia de la sirena y cuenta lo que le ocurrió en la época actual, cuando llegaron los turistas.",
+    "Los primeros describen la laguna tal como es hoy, y el último explica cómo se formó hace muchísimo tiempo."
+   ],
+   "a": 1,
+   "why": "El último párrafo cambia de tiempo y de tipo de información: deja la leyenda y presenta un dato real (la laguna pierde agua y se le añade agua por tuberías). Así se contrapone la laguna «nacida de un espejo mágico» con su fragilidad actual. La A exagera: el texto no dice que la laguna sea artificial, sino que se le añade agua. La C confunde el dato real con una continuación del relato, y la D invierte el orden."
+  },
+  {
+   "n": 6,
+   "area": "com",
+   "ctx": "t1",
+   "stem": "¿Qué idea sugiere el autor en la última oración del texto?",
+   "opts": [
+    "Resulta contradictorio que una laguna con un origen mágico tan poderoso sea hoy tan frágil.",
+    "Los guías turísticos deberían dejar de contar la leyenda, porque engaña a los visitantes.",
+    "Las leyendas pierden su valor cuando la ciencia logra explicar los fenómenos naturales.",
+    "Los visitantes son los únicos responsables de que la laguna haya perdido parte de su agua natural."
+   ],
+   "a": 0,
+   "why": "La oración final contrapone dos ideas: según la leyenda, la laguna nació de un espejo mágico; en la realidad, «necesita ahora de la mano humana para seguir existiendo». El autor invita a notar ese contraste, sin rechazar la leyenda. La B y la C atribuyen al autor opiniones que no expresa. La D contradice el texto: la causa principal es el uso del agua subterránea en el valle, no los visitantes."
+  },
+  {
+   "n": 7,
+   "area": "com",
+   "ctx": "t2",
+   "stem": "Según el texto 2, ¿cuánto tiempo permanece el bus en Hualhuas?",
+   "opts": [
+    "30 minutos",
+    "1 hora",
+    "15 minutos",
+    "45 minutos"
+   ],
+   "a": 3,
+   "why": "En la tabla, la parada de Hualhuas va de 11:00 a 11:45: son 45 minutos. La A es el tiempo de viaje de Cochas Chico a Hualhuas que aparece en el mapa, y la B, la duración de la parada en Cochas Chico. La C es el viaje de Hualhuas a San Jerónimo. Hay que distinguir el tiempo de permanencia (tabla) del tiempo de viaje (mapa)."
+  },
+  {
+   "n": 8,
+   "area": "com",
+   "ctx": "t2",
+   "stem": "Una familia solo puede pasear el domingo y quiere visitar el convento de Ocopa y comprar mates burilados. ¿Qué puede hacer?",
+   "opts": [
+    "Comprar los mates en el recorrido A, pero dejar el convento para otro día.",
+    "Tomar el combo A + B del domingo, porque ese día salen los dos recorridos del bus.",
+    "Tomar el recorrido B por la mañana y el recorrido A por la tarde.",
+    "Visitar el convento y Cochas Chico en el recorrido A del domingo."
+   ],
+   "a": 0,
+   "why": "El convento está en el recorrido B, que sale de lunes a sábado; los mates burilados están en Cochas Chico, en el recorrido A, que sí sale el domingo. El domingo solo se puede hacer la mitad del plan. La B no lee la nota de los días. La C invierte los horarios: el A sale a las 9:00 y el B a las 14:00. La D ubica el convento en el recorrido equivocado."
+  },
+  {
+   "n": 9,
+   "area": "com",
+   "ctx": "t2",
+   "stem": "Lucía es estudiante y tiene carné. Si quiere hacer los dos recorridos el mismo sábado, ¿cuánto es lo mínimo que debe pagar?",
+   "opts": [
+    "S/ 50",
+    "S/ 40",
+    "S/ 20",
+    "S/ 60"
+   ],
+   "a": 1,
+   "why": "Hay dos formas de pagar: el combo, que cuesta S/ 50 y «no se suma a otros descuentos», o dos pasajes de estudiante por separado: 20 + 20 = S/ 40. Lo mínimo es S/ 40. La A elige el combo sin comparar. La C paga un solo pasaje de estudiante, como si sirviera para los dos recorridos. La D paga dos pasajes de adulto (30 + 30)."
+  },
+  {
+   "n": 10,
+   "area": "com",
+   "ctx": "t2",
+   "stem": "¿Qué información aporta el mapa que no se puede obtener de la tabla de horarios?",
+   "opts": [
+    "Las horas exactas a las que el bus llega y sale de cada uno de los pueblos.",
+    "Lo que se puede visitar en cada pueblo y lo que venden sus talleres.",
+    "Los días de la semana en que funciona cada uno de los dos recorridos.",
+    "La ubicación de los pueblos entre sí y el tiempo de viaje entre una parada y otra."
+   ],
+   "a": 3,
+   "why": "La tabla dice a qué hora se llega y qué se visita; el mapa muestra dónde está cada pueblo respecto de los demás y cuántos minutos dura cada tramo. Las alternativas A, B y C describen información que está en la tabla o en sus notas, no en el mapa. En un texto discontinuo, cada parte (tabla, mapa, recuadros) cumple una función distinta."
+  },
+  {
+   "n": 11,
+   "area": "com",
+   "ctx": "t2",
+   "stem": "¿Cuál es el propósito principal del texto 2?",
+   "opts": [
+    "Convencer al lector de que el valle del Mantaro es, sin ninguna duda, el mejor destino turístico del país.",
+    "Brindar la información necesaria para que el lector organice su visita a los pueblos del valle.",
+    "Explicar cómo se elaboran los mates burilados, los tejidos y las joyas de filigrana.",
+    "Narrar la experiencia de unos turistas que recorrieron los pueblos artesanos del valle."
+   ],
+   "a": 1,
+   "why": "Horarios, tarifas, un mapa y recomendaciones prácticas: todo sirve para planificar el viaje. La A exagera: el texto no compara el valle con otros destinos. La C confunde lo que se visita con una explicación que el texto no da, y la D corresponde a una crónica, no a un afiche informativo."
+  },
+  {
+   "n": 12,
+   "area": "com",
+   "ctx": "t3",
+   "stem": "Según la entrevistada, ¿por qué se puede comparar un glaciar con una «caja de ahorro»?",
+   "opts": [
+    "Porque los pueblos que tienen glaciares pueden vender su agua a las ciudades de la costa.",
+    "Porque cada año el hielo que se acumula es mayor que el hielo que se derrite.",
+    "Porque guarda agua en forma de hielo en las lluvias y la va soltando en los meses secos.",
+    "Porque su agua solo debe usarse en emergencias, como cuando ocurre un aluvión."
+   ],
+   "a": 2,
+   "why": "La entrevistada lo explica: en la temporada de lluvias el glaciar «guarda agua en forma de hielo» y en los meses secos «la va soltando poco a poco». La B dice lo contrario de lo que ocurre: hoy se gastan «los ahorros más rápido de lo que se depositan». La A y la D no aparecen en la entrevista."
+  },
+  {
+   "n": 13,
+   "area": "com",
+   "ctx": "t3",
+   "stem": "Un río nace en un glaciar y hoy lleva más agua que hace treinta años. Según la entrevista, ¿qué se puede inferir sobre ese río?",
+   "opts": [
+    "Su caudal seguirá aumentando todos los años mientras la temperatura del planeta continúe subiendo.",
+    "En la época seca, su caudal probablemente disminuirá cuando el glaciar se haya reducido lo suficiente.",
+    "Se secará por completo en los próximos diez años, porque el glaciar ya perdió la mitad de su hielo.",
+    "Llevará cada vez más agua, porque con el calentamiento también aumentarán las lluvias en toda la sierra."
+   ],
+   "a": 1,
+   "why": "El aumento es «una ilusión pasajera»: al principio baja más agua, pero «cuando el glaciar se haya reducido lo suficiente, el caudal empezará a disminuir». La A es la idea que la entrevistada corrige. La C exagera con un plazo y un resultado que el texto no da. La D introduce las lluvias, de las que la entrevista no habla."
+  },
+  {
+   "n": 14,
+   "area": "com",
+   "ctx": "t3",
+   "stem": "¿Qué función cumple la pregunta «¿No es una buena noticia?» dentro de la entrevista?",
+   "opts": [
+    "Mostrar que el entrevistador está de acuerdo con lo que dicen los agricultores.",
+    "Cambiar de tema para empezar a hablar del peligro de los aluviones en Huaraz.",
+    "Demostrar que la entrevistada no conocía la opinión de los agricultores de la zona.",
+    "Presentar una creencia común para que la entrevistada la analice y la corrija."
+   ],
+   "a": 3,
+   "why": "El entrevistador recoge lo que dicen algunos agricultores y le da a la entrevistada la oportunidad de explicar por qué es «una ilusión pasajera». No expresa su propia opinión (A) ni cambia de tema (B): los aluviones aparecen dos preguntas después. La C no tiene apoyo: la glacióloga dice que «es comprensible que lo piensen»."
+  },
+  {
+   "n": 15,
+   "area": "com",
+   "ctx": "t3",
+   "stem": "De acuerdo con la entrevista, ¿cuál de estas acciones ayudaría más a que un nevado cercano a una comunidad se derrita más lentamente?",
+   "opts": [
+    "Evitar las quemas de pastos en las laderas que rodean el nevado.",
+    "Construir obras para bajar el nivel de las lagunas que deja el hielo.",
+    "Instalar sensores para vigilar el nivel de las lagunas del nevado.",
+    "Regar las chacras con más eficiencia durante los meses secos del año."
+   ],
+   "a": 0,
+   "why": "El hollín de las quemas oscurece la nieve, y una superficie oscura absorbe más radiación solar y se derrite antes. Evitar las quemas ataca directamente esa causa. La B y la C sirven para reducir el riesgo de aluviones, no para frenar el deshielo. La D ayuda a aprovechar mejor el agua, pero no cambia la rapidez con que se derrite el hielo."
+  },
+  {
+   "n": 16,
+   "area": "com",
+   "ctx": "t3",
+   "stem": "¿Qué recurso usa la entrevistada para mostrar que el riesgo de aluviones es real y no una suposición?",
+   "opts": [
+    "Cita las mediciones de los sensores instalados en las lagunas.",
+    "Compara el glaciar con una cuenta de ahorros en el banco.",
+    "Recuerda un hecho ocurrido en la propia ciudad de Huaraz.",
+    "Presenta la opinión de los agricultores que viven en la zona."
+   ],
+   "a": 2,
+   "why": "Para respaldar el riesgo, menciona el aluvión de 1941 de la laguna Palcacocha, que «destruyó parte de la ciudad». Es un ejemplo histórico. La A confunde: habla de sensores, pero no cita sus mediciones. La B es el recurso que usa para explicar otra idea (el agua que guarda el glaciar), y la D corresponde a otra pregunta."
+  },
+  {
+   "n": 17,
+   "area": "com",
+   "ctx": "t3",
+   "stem": "¿Cuál de las siguientes afirmaciones resume mejor la postura de la entrevistada?",
+   "opts": [
+    "El retroceso de los glaciares ya no tiene solución, así que no tiene sentido hacer ningún esfuerzo.",
+    "Aunque no podemos frenar solos el calentamiento, sí podemos prepararnos para tener menos agua.",
+    "El problema del agua se resolverá por completo si las comunidades dejan de quemar los pastos.",
+    "Los glaciares no corren peligro mientras sigan aumentando el caudal de los ríos de la costa."
+   ],
+   "a": 1,
+   "why": "Al final dice: «No podemos detener solos el calentamiento, pero sí prepararnos», y propone acciones concretas. La A es pesimista y contradice sus propuestas. La C convierte una medida en una solución total. La D repite la «ilusión pasajera» que ella misma corrige."
+  },
+  {
+   "n": 18,
+   "area": "mat",
+   "ctx": null,
+   "stem": "Los 240 estudiantes de un colegio se inscribieron en un solo taller cada uno. La tabla muestra parte de la información.\n<table class=\"dt\"><tr><th>Taller</th><th>N.° de estudiantes</th><th>Parte del total</th></tr><tr><td>Danza</td><td>54</td><td></td></tr><tr><td>Ajedrez</td><td></td><td>3/8</td></tr><tr><td>Música</td><td></td><td>15 %</td></tr><tr><td>Teatro</td><td></td><td></td></tr><tr><th>Total</th><th>240</th><th>100 %</th></tr></table>\n¿Qué porcentaje de los estudiantes se inscribió en Teatro?",
+   "opts": [
+    "24,5 %",
+    "25 %",
+    "47,5 %",
+    "60 %"
+   ],
+   "a": 1,
+   "why": "<i>Similar a la pregunta 44 de 2025 (tabla incompleta con cantidades y porcentajes).</i> Se pasa todo a porcentaje. Danza: 54 ÷ 240 = 0,225 = 22,5 %. Ajedrez: 3/8 = 3 ÷ 8 = 0,375 = 37,5 %. Teatro: 100 − 22,5 − 37,5 − 15 = 25 %. Comprobación con cantidades: Ajedrez 90, Música 36, Teatro 240 − 54 − 90 − 36 = 60 estudiantes, y 60 ÷ 240 = 25 % ✓. La A sale de leer 3/8 como 38 %: una fracción no se convierte juntando sus cifras. La C olvida restar Danza, que estaba como cantidad y no como porcentaje. La D confunde los 60 estudiantes de Teatro con un porcentaje."
+  },
+  {
+   "n": 19,
+   "area": "mat",
+   "ctx": null,
+   "stem": "Un grupo de pintores planeó pintar un colegio en 18 días, trabajando cierta cantidad de horas cada día. Como cada día trabajaron 2 horas menos de lo planeado, tardaron 24 días. Si todos los días pintaron al mismo ritmo por hora, ¿cuántas horas trabajaron cada día?",
+   "opts": [
+    "8 horas",
+    "4 horas",
+    "10 horas",
+    "6 horas"
+   ],
+   "a": 3,
+   "why": "<i>Similar a la pregunta 30 de 2024 (obra que se retrasa por trabajar menos horas).</i> El total de horas de trabajo es el mismo: menos horas por día exigen más días (proporción inversa). Si h son las horas planeadas: 18h = 24(h − 2), 18h = 24h − 48, 6h = 48 y h = 8. Trabajaron 8 − 2 = 6 horas diarias. Comprobación: 18 × 8 = 144 y 24 × 6 = 144 ✓. La A son las horas planeadas, no las que se pregunta. La B calcula las horas perdidas con los 18 días planeados (6h = 2 × 18) en lugar de los 24 reales. La C suma las 2 horas en vez de restarlas."
+  },
+  {
+   "n": 20,
+   "area": "mat",
+   "ctx": null,
+   "stem": "En 2023, el pasaje de una ruta de bus costaba S/ 2,50. En 2024 subió 20 % y, en 2025, bajó 10 % respecto del precio de 2024. ¿En qué porcentaje varió el pasaje de 2023 a 2025?",
+   "opts": [
+    "Aumentó 10 %",
+    "Aumentó 7,4 %",
+    "Aumentó 8 %",
+    "Aumentó 0,2 %"
+   ],
+   "a": 2,
+   "why": "<i>Similar a la pregunta 39 de 2025 (variación porcentual de un sueldo).</i> Los porcentajes se aplican uno tras otro: 2,50 × 1,20 = 3,00 y 3,00 × 0,90 = 2,70. El pasaje subió 2,70 − 2,50 = 0,20 soles, y respecto del precio inicial: 0,20 ÷ 2,50 = 0,08 = 8 %. La A resta los porcentajes (20 − 10), lo que no vale porque cada uno se calcula sobre un precio distinto. La B divide entre el precio final (0,20 ÷ 2,70). La D confunde los S/ 0,20 de aumento con un porcentaje."
+  },
+  {
+   "n": 21,
+   "area": "mat",
+   "ctx": null,
+   "stem": "Para regalar, Lucía ata cajas de 32 cm de largo, 24 cm de ancho y 12 cm de alto con una cinta colocada en forma de cruz, como en la figura. Además, en cada caja usa 20 cm de cinta para el lazo.<div class='fc'><svg viewBox=\"0 0 250 150\" width=\"250\" class=\"fig\"><style>.t{font-size:12px;fill:#222}</style>\n<polygon points=\"46.0,55.9 174.0,55.9 207.9,22.0 79.9,22.0\" fill=\"#f2f2f2\" stroke=\"#111\" stroke-width=\"1.5\"/>\n<polygon points=\"174.0,55.9 207.9,22.0 207.9,70.0 174.0,103.9\" fill=\"#d9d9d9\" stroke=\"#111\" stroke-width=\"1.5\"/>\n<rect x=\"46\" y=\"55.9\" width=\"128\" height=\"48\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.5\"/>\n<line x1=\"63.0\" y1=\"39.0\" x2=\"191.0\" y2=\"39.0\" stroke=\"#6f6f6f\" stroke-width=\"6\"/>\n<line x1=\"191.0\" y1=\"39.0\" x2=\"191.0\" y2=\"87.0\" stroke=\"#6f6f6f\" stroke-width=\"6\"/>\n<line x1=\"110.0\" y1=\"55.9\" x2=\"143.9\" y2=\"22.0\" stroke=\"#6f6f6f\" stroke-width=\"6\"/>\n<line x1=\"110.0\" y1=\"55.9\" x2=\"110.0\" y2=\"103.9\" stroke=\"#6f6f6f\" stroke-width=\"6\"/>\n<ellipse cx=\"116.0\" cy=\"32.0\" rx=\"11\" ry=\"6\" transform=\"rotate(-20 116.0 32.0)\" fill=\"none\" stroke=\"#555\" stroke-width=\"3\"/>\n<ellipse cx=\"138.0\" cy=\"32.0\" rx=\"11\" ry=\"6\" transform=\"rotate(20 138.0 32.0)\" fill=\"none\" stroke=\"#555\" stroke-width=\"3\"/>\n<circle cx=\"127.0\" cy=\"37.0\" r=\"4\" fill=\"#555\"/>\n<text x=\"110.0\" y=\"120.9\" class=\"t\" text-anchor=\"middle\">32 cm</text>\n<text x=\"40\" y=\"83.9\" class=\"t\" text-anchor=\"end\">12 cm</text>\n<text x=\"199.0\" y=\"101.0\" class=\"t\">24 cm</text></svg></div>Si tiene un rollo de 12,5 m de cinta, ¿cuántas cajas puede atar como máximo y cuánta cinta le sobra?",
+   "opts": [
+    "7 cajas; sobran 1,3 m",
+    "8 cajas; sobran 2 cm",
+    "6 cajas; sobran 94 cm",
+    "6 cajas; sobran 1,7 m"
+   ],
+   "a": 3,
+   "why": "<i>Similar a la pregunta 48 de 2025 (cinta en cruz alrededor de una caja).</i> Cada vuelta de la cinta pasa dos veces por la altura. Vuelta a lo largo: 2 × (32 + 12) = 88 cm. Vuelta a lo ancho: 2 × (24 + 12) = 72 cm. Con el lazo: 88 + 72 + 20 = 180 cm = 1,8 m por caja. Cajas: 12,5 ÷ 1,8 = 125 ÷ 18 = 6, y sobran 125 − 108 = 17 décimos, es decir, 1,7 m. La A olvida el lazo (1,6 m por caja). La B cuenta la altura una sola vez en cada vuelta (2 × 32 + 2 × 24 + 2 × 12 + 20 = 156 cm). La C toma el decimal del cociente (6,94…) como si fuera lo que sobra: lo que sobra es 12,5 − 6 × 1,8."
+  },
+  {
+   "n": 22,
+   "area": "mat",
+   "ctx": null,
+   "stem": "Para hacer una caja sin tapa, se cortan cuadrados de 5 cm de lado en las cuatro esquinas de una plancha rectangular de cartón y se doblan los bordes hacia arriba por las líneas punteadas.<div class='fc'><svg viewBox=\"0 0 310 210\" width=\"300\" class=\"fig\"><defs><marker id=\"fl6\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto-start-reverse\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#111\"/></marker></defs><style>.t{font-size:12px;fill:#111}</style><rect x=\"50\" y=\"14\" width=\"200\" height=\"150\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.5\"/><rect x=\"50\" y=\"14\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#111\" stroke-width=\"1.2\"/><rect x=\"225\" y=\"14\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#111\" stroke-width=\"1.2\"/><rect x=\"50\" y=\"139\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#111\" stroke-width=\"1.2\"/><rect x=\"225\" y=\"139\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#111\" stroke-width=\"1.2\"/><line x1=\"75\" y1=\"39\" x2=\"225\" y2=\"39\" stroke=\"#555\" stroke-dasharray=\"4 3\"/><line x1=\"75\" y1=\"139\" x2=\"225\" y2=\"139\" stroke=\"#555\" stroke-dasharray=\"4 3\"/><line x1=\"75\" y1=\"39\" x2=\"75\" y2=\"139\" stroke=\"#555\" stroke-dasharray=\"4 3\"/><line x1=\"225\" y1=\"39\" x2=\"225\" y2=\"139\" stroke=\"#555\" stroke-dasharray=\"4 3\"/><text x=\"150.0\" y=\"94.0\" class=\"t\" text-anchor=\"middle\" style=\"font-size:13px\">Base</text><line x1=\"50\" y1=\"178\" x2=\"250\" y2=\"178\" stroke=\"#111\" marker-start=\"url(#fl6)\" marker-end=\"url(#fl6)\"/><text x=\"150.0\" y=\"194\" class=\"t\" text-anchor=\"middle\">40 cm</text><line x1=\"36\" y1=\"14\" x2=\"36\" y2=\"164\" stroke=\"#111\" marker-start=\"url(#fl6)\" marker-end=\"url(#fl6)\"/><text x=\"30\" y=\"93.0\" class=\"t\" text-anchor=\"end\">30 cm</text><line x1=\"225\" y1=\"14\" x2=\"250\" y2=\"14\" stroke=\"#111\"/><text x=\"256\" y=\"30.5\" class=\"t\">5 cm</text><line x1=\"252\" y1=\"14\" x2=\"252\" y2=\"39\" stroke=\"#111\" marker-start=\"url(#fl6)\" marker-end=\"url(#fl6)\"/></svg></div>¿Cuántos litros de capacidad tiene la caja? (Recuerda: 1 litro = 1000 cm³).",
+   "opts": [
+    "6 litros",
+    "4,375 litros",
+    "3 litros",
+    "30 litros"
+   ],
+   "a": 2,
+   "why": "<i>Similar a la pregunta 50 de 2025 (caja abierta hecha cortando las esquinas).</i> A cada lado se le quitan dos cuadrados de 5 cm: la base mide 40 − 10 = 30 cm por 30 − 10 = 20 cm, y la altura es 5 cm. Volumen: 30 × 20 × 5 = 3000 cm³ = 3000 ÷ 1000 = 3 litros. La A usa las medidas de la plancha sin restar los cortes (40 × 30 × 5). La B resta 5 cm una sola vez en cada medida (35 × 25 × 5). La D divide entre 100 en lugar de 1000."
+  },
+  {
+   "n": 23,
+   "area": "mat",
+   "ctx": null,
+   "stem": "Si al triple de la edad de Rocío se le resta 7, se obtiene más de 30. Además, si al doble de la edad que tendrá Rocío dentro de 3 años se le suma 1, se obtiene menos de 35. Si su edad es un número entero de años, ¿cuántos años tiene Rocío?",
+   "opts": [
+    "13 años",
+    "12 años",
+    "14 años",
+    "15 años"
+   ],
+   "a": 0,
+   "why": "<i>Similar a la pregunta 43 de 2026 (número entero que cumple dos desigualdades).</i> Primera condición: 3x − 7 > 30, 3x > 37, x > 12,33… Segunda: 2(x + 3) + 1 < 35, 2x + 7 < 35, 2x < 28, x < 14. El único entero mayor que 12,33 y menor que 14 es 13. Comprobación: 3 × 13 − 7 = 32 > 30 ✓ y 2 × 16 + 1 = 33 < 35 ✓. La B redondea 12,33 hacia abajo, pero 3 × 12 − 7 = 29 no es mayor que 30. La C toma «menos de» como si incluyera el 14, pero 2 × 17 + 1 = 35 no es menor que 35. La D olvida multiplicar por 2 los 3 años (2x + 3 + 1 < 35 da x < 15,5) y elige el mayor entero."
+  },
+  {
+   "n": 24,
+   "area": "mat",
+   "ctx": null,
+   "stem": "Las balanzas 1 y 2 están en equilibrio. Todos los cubos tienen la misma masa y todas las esferas también.<div class='fc'><svg viewBox=\"0 26 450 116\" width=\"450\" class=\"fig\"><polygon points=\"70.0,86.0 60.0,118.0 80.0,118.0\" fill=\"#666\"/><rect x=\"52\" y=\"118\" width=\"36\" height=\"5\" fill=\"#444\"/><rect x=\"6\" y=\"84\" width=\"128\" height=\"4\" fill=\"#444\"/><line x1=\"33\" y1=\"84\" x2=\"33\" y2=\"80\" stroke=\"#444\" stroke-width=\"3\"/><polygon points=\"1.0,76.0 65.0,76.0 59.0,80.0 7.0,80.0\" fill=\"#999\" stroke=\"#444\"/><rect x=\"5.5\" y=\"59\" width=\"17\" height=\"17\" fill=\"#cfcfcf\" stroke=\"#222\" stroke-width=\"1.2\"/><rect x=\"24.5\" y=\"59\" width=\"17\" height=\"17\" fill=\"#cfcfcf\" stroke=\"#222\" stroke-width=\"1.2\"/><rect x=\"43.5\" y=\"59\" width=\"17\" height=\"17\" fill=\"#cfcfcf\" stroke=\"#222\" stroke-width=\"1.2\"/><circle cx=\"33.0\" cy=\"50.5\" r=\"8.3\" fill=\"#555\" stroke=\"#222\"/><line x1=\"107\" y1=\"84\" x2=\"107\" y2=\"80\" stroke=\"#444\" stroke-width=\"3\"/><polygon points=\"75.0,76.0 139.0,76.0 133.0,80.0 81.0,80.0\" fill=\"#999\" stroke=\"#444\"/><rect x=\"82.5\" y=\"59\" width=\"17\" height=\"17\" fill=\"#cfcfcf\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"105.5,52.0 127.5,52.0 131.5,76.0 101.5,76.0\" fill=\"#e8e8e8\" stroke=\"#222\" stroke-width=\"1.2\"/><text x=\"116.5\" y=\"68\" font-size=\"9.5\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#111\">8 kg</text><text x=\"70\" y=\"138\" font-size=\"12\" text-anchor=\"middle\" fill=\"#111\">Balanza 1</text><polygon points=\"225.0,86.0 215.0,118.0 235.0,118.0\" fill=\"#666\"/><rect x=\"207\" y=\"118\" width=\"36\" height=\"5\" fill=\"#444\"/><rect x=\"161\" y=\"84\" width=\"128\" height=\"4\" fill=\"#444\"/><line x1=\"188\" y1=\"84\" x2=\"188\" y2=\"80\" stroke=\"#444\" stroke-width=\"3\"/><polygon points=\"156.0,76.0 220.0,76.0 214.0,80.0 162.0,80.0\" fill=\"#999\" stroke=\"#444\"/><rect x=\"160.5\" y=\"59\" width=\"17\" height=\"17\" fill=\"#cfcfcf\" stroke=\"#222\" stroke-width=\"1.2\"/><rect x=\"179.5\" y=\"59\" width=\"17\" height=\"17\" fill=\"#cfcfcf\" stroke=\"#222\" stroke-width=\"1.2\"/><circle cx=\"207.0\" cy=\"67.5\" r=\"8.3\" fill=\"#555\" stroke=\"#222\"/><circle cx=\"178.5\" cy=\"50.5\" r=\"8.3\" fill=\"#555\" stroke=\"#222\"/><circle cx=\"197.5\" cy=\"50.5\" r=\"8.3\" fill=\"#555\" stroke=\"#222\"/><line x1=\"262\" y1=\"84\" x2=\"262\" y2=\"80\" stroke=\"#444\" stroke-width=\"3\"/><polygon points=\"230.0,76.0 294.0,76.0 288.0,80.0 236.0,80.0\" fill=\"#999\" stroke=\"#444\"/><circle cx=\"246.0\" cy=\"67.5\" r=\"8.3\" fill=\"#555\" stroke=\"#222\"/><polygon points=\"260.5,52.0 282.5,52.0 286.5,76.0 256.5,76.0\" fill=\"#e8e8e8\" stroke=\"#222\" stroke-width=\"1.2\"/><text x=\"271.5\" y=\"68\" font-size=\"9.5\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#111\">10 kg</text><text x=\"225\" y=\"138\" font-size=\"12\" text-anchor=\"middle\" fill=\"#111\">Balanza 2</text><polygon points=\"380.0,86.0 370.0,118.0 390.0,118.0\" fill=\"#666\"/><rect x=\"362\" y=\"118\" width=\"36\" height=\"5\" fill=\"#444\"/><rect x=\"316\" y=\"84\" width=\"128\" height=\"4\" fill=\"#444\"/><line x1=\"343\" y1=\"84\" x2=\"343\" y2=\"80\" stroke=\"#444\" stroke-width=\"3\"/><polygon points=\"311.0,76.0 375.0,76.0 369.0,80.0 317.0,80.0\" fill=\"#999\" stroke=\"#444\"/><rect x=\"315.5\" y=\"59\" width=\"17\" height=\"17\" fill=\"#cfcfcf\" stroke=\"#222\" stroke-width=\"1.2\"/><rect x=\"334.5\" y=\"59\" width=\"17\" height=\"17\" fill=\"#cfcfcf\" stroke=\"#222\" stroke-width=\"1.2\"/><rect x=\"353.5\" y=\"59\" width=\"17\" height=\"17\" fill=\"#cfcfcf\" stroke=\"#222\" stroke-width=\"1.2\"/><circle cx=\"333.5\" cy=\"50.5\" r=\"8.3\" fill=\"#555\" stroke=\"#222\"/><circle cx=\"352.5\" cy=\"50.5\" r=\"8.3\" fill=\"#555\" stroke=\"#222\"/><line x1=\"417\" y1=\"84\" x2=\"417\" y2=\"80\" stroke=\"#444\" stroke-width=\"3\"/><polygon points=\"385.0,76.0 449.0,76.0 443.0,80.0 391.0,80.0\" fill=\"#999\" stroke=\"#444\"/><polygon points=\"406.0,52.0 428.0,52.0 432.0,76.0 402.0,76.0\" fill=\"#e8e8e8\" stroke=\"#222\" stroke-width=\"1.2\"/><text x=\"417.0\" y=\"68\" font-size=\"9.5\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#111\">¿?</text><text x=\"380\" y=\"138\" font-size=\"12\" text-anchor=\"middle\" fill=\"#111\">Balanza 3</text></svg></div>¿Qué pesa hay que colocar en el platillo derecho de la balanza 3 para que también quede en equilibrio?",
+   "opts": [
+    "13 kg",
+    "10 kg",
+    "12 kg",
+    "15 kg"
+   ],
+   "a": 0,
+   "why": "<i>Similar a la pregunta 41 de 2026 (balanzas en equilibrio).</i> Primero se quita lo que se repite en los dos platillos. Balanza 1: se quita un cubo de cada lado y queda 2 cubos + 1 esfera = 8 kg. Balanza 2: se quita una esfera de cada lado y queda 2 cubos + 2 esferas = 10 kg. Comparando, la esfera extra pesa 10 − 8 = 2 kg, y cada cubo, (8 − 2) ÷ 2 = 3 kg. Balanza 3: 3 × 3 + 2 × 2 = 13 kg. La B sale de no quitar los objetos del platillo derecho (3 cubos + 1 esfera = 8 y 2 cubos + 3 esferas = 10 dan cubo = 2 kg y esfera = 2 kg). La C intercambia los valores del cubo y la esfera. La D cuenta los 5 objetos como si todos fueran cubos de 3 kg."
+  },
+  {
+   "n": 25,
+   "area": "mat",
+   "ctx": null,
+   "stem": "A las 9:40 a. m., Rosa pasa en bicicleta junto a este letrero, que indica la distancia a tres pueblos de la carretera, todos en el sentido en que ella avanza.<div class='fc'><svg viewBox=\"0 0 226 122\" width=\"226\" class=\"fig\"><rect x=\"34\" y=\"4\" width=\"10\" height=\"116\" fill=\"#9a9a9a\" stroke=\"#444\"/><polygon points=\"10.0,10.0 200.0,10.0 216.0,22.0 200.0,34.0 10.0,34.0\" fill=\"#e6e6e6\" stroke=\"#333\" stroke-width=\"1.5\"/><text x=\"20\" y=\"27\" font-size=\"13\" font-weight=\"700\" fill=\"#111\">YANACOTO</text><text x=\"196\" y=\"27\" font-size=\"12\" font-weight=\"700\" fill=\"#111\" text-anchor=\"end\">26 km</text><polygon points=\"10.0,42.0 200.0,42.0 216.0,54.0 200.0,66.0 10.0,66.0\" fill=\"#e6e6e6\" stroke=\"#333\" stroke-width=\"1.5\"/><text x=\"20\" y=\"59\" font-size=\"13\" font-weight=\"700\" fill=\"#111\">PAMPALCA</text><text x=\"196\" y=\"59\" font-size=\"12\" font-weight=\"700\" fill=\"#111\" text-anchor=\"end\">17,5 km</text><polygon points=\"10.0,74.0 200.0,74.0 216.0,86.0 200.0,98.0 10.0,98.0\" fill=\"#e6e6e6\" stroke=\"#333\" stroke-width=\"1.5\"/><text x=\"20\" y=\"91\" font-size=\"13\" font-weight=\"700\" fill=\"#111\">RUMICHACA</text><text x=\"196\" y=\"91\" font-size=\"12\" font-weight=\"700\" fill=\"#111\" text-anchor=\"end\">14 km</text></svg></div>Rosa sigue a 18 km por hora sin detenerse y se detiene a las 10:30 a. m. En ese momento, ¿qué pueblo está más cerca de ella y a qué distancia?",
+   "opts": [
+    "Pampalca, a 2,5 km",
+    "Rumichaca, a 5 km",
+    "Rumichaca, a 1 km",
+    "Pampalca, a 1,3 km"
+   ],
+   "a": 2,
+   "why": "<i>Similar a la pregunta 27 de 2026 (letrero de distancias y velocidad).</i> De 9:40 a 10:30 pasan 50 minutos = 50/60 = 5/6 de hora. Recorrido: 18 × 5/6 = 15 km. Rumichaca estaba a 14 km: Rosa ya pasó por ahí y ahora está 15 − 14 = 1 km detrás de ella. Pampalca está 17,5 − 15 = 2,5 km adelante. El más cercano es Rumichaca, a 1 km. La A solo mira los pueblos que están adelante y olvida el que ya pasó. La B toma 50 minutos como 0,5 horas (9 km). La D resta las horas como decimales (10,30 − 9,40 = 0,90 h), pero una hora tiene 60 minutos, no 100."
+  },
+  {
+   "n": 26,
+   "area": "mat",
+   "ctx": null,
+   "stem": "En un juego de tiro al blanco, cada zona da siempre el mismo puntaje: el centro, el anillo del medio y el anillo exterior tienen puntajes distintos. Diego lanza tres dardos en cada ronda. La figura muestra dónde cayeron sus dardos y el puntaje de las tres primeras rondas.<div class='fc'><svg viewBox=\"0 0 500 165\" width=\"480\" class=\"fig\"><style>.t{font-size:12px;fill:#111}.b{font-weight:700}</style><circle cx=\"66\" cy=\"70\" r=\"50\" fill=\"#d6d6d6\" stroke=\"#222\" stroke-width=\"1.3\"/><circle cx=\"66\" cy=\"70\" r=\"33\" fill=\"#f7f7f7\" stroke=\"#222\" stroke-width=\"1.3\"/><circle cx=\"66\" cy=\"70\" r=\"15\" fill=\"#8c8c8c\" stroke=\"#222\" stroke-width=\"1.3\"/><line x1=\"6.0\" y1=\"23.8\" x2=\"30.5\" y2=\"49.5\" stroke=\"#111\" stroke-width=\"2.2\"/><circle cx=\"30.5\" cy=\"49.5\" r=\"3.4\" fill=\"#111\" stroke=\"#fff\" stroke-width=\"1\"/><line x1=\"121.9\" y1=\"19.0\" x2=\"92.4\" y2=\"38.6\" stroke=\"#111\" stroke-width=\"2.2\"/><circle cx=\"92.4\" cy=\"38.6\" r=\"3.4\" fill=\"#111\" stroke=\"#fff\" stroke-width=\"1\"/><line x1=\"95.6\" y1=\"120.9\" x2=\"81.4\" y2=\"88.4\" stroke=\"#111\" stroke-width=\"2.2\"/><circle cx=\"81.4\" cy=\"88.4\" r=\"3.4\" fill=\"#111\" stroke=\"#fff\" stroke-width=\"1\"/><text x=\"66\" y=\"142\" class=\"t\" text-anchor=\"middle\">1.ª ronda</text><text x=\"66\" y=\"158\" class=\"t b\" text-anchor=\"middle\">11 puntos</text><circle cx=\"190\" cy=\"70\" r=\"50\" fill=\"#d6d6d6\" stroke=\"#222\" stroke-width=\"1.3\"/><circle cx=\"190\" cy=\"70\" r=\"33\" fill=\"#f7f7f7\" stroke=\"#222\" stroke-width=\"1.3\"/><circle cx=\"190\" cy=\"70\" r=\"15\" fill=\"#8c8c8c\" stroke=\"#222\" stroke-width=\"1.3\"/><line x1=\"130.0\" y1=\"23.8\" x2=\"154.5\" y2=\"49.5\" stroke=\"#111\" stroke-width=\"2.2\"/><circle cx=\"154.5\" cy=\"49.5\" r=\"3.4\" fill=\"#111\" stroke=\"#fff\" stroke-width=\"1\"/><line x1=\"234.9\" y1=\"32.0\" x2=\"205.4\" y2=\"51.6\" stroke=\"#111\" stroke-width=\"2.2\"/><circle cx=\"205.4\" cy=\"51.6\" r=\"3.4\" fill=\"#111\" stroke=\"#fff\" stroke-width=\"1\"/><line x1=\"219.6\" y1=\"120.9\" x2=\"205.4\" y2=\"88.4\" stroke=\"#111\" stroke-width=\"2.2\"/><circle cx=\"205.4\" cy=\"88.4\" r=\"3.4\" fill=\"#111\" stroke=\"#fff\" stroke-width=\"1\"/><text x=\"190\" y=\"142\" class=\"t\" text-anchor=\"middle\">2.ª ronda</text><text x=\"190\" y=\"158\" class=\"t b\" text-anchor=\"middle\">13 puntos</text><circle cx=\"314\" cy=\"70\" r=\"50\" fill=\"#d6d6d6\" stroke=\"#222\" stroke-width=\"1.3\"/><circle cx=\"314\" cy=\"70\" r=\"33\" fill=\"#f7f7f7\" stroke=\"#222\" stroke-width=\"1.3\"/><circle cx=\"314\" cy=\"70\" r=\"15\" fill=\"#8c8c8c\" stroke=\"#222\" stroke-width=\"1.3\"/><line x1=\"283.5\" y1=\"40.8\" x2=\"307.9\" y2=\"66.5\" stroke=\"#111\" stroke-width=\"2.2\"/><circle cx=\"307.9\" cy=\"66.5\" r=\"3.4\" fill=\"#111\" stroke=\"#fff\" stroke-width=\"1\"/><line x1=\"358.9\" y1=\"32.0\" x2=\"329.4\" y2=\"51.6\" stroke=\"#111\" stroke-width=\"2.2\"/><circle cx=\"329.4\" cy=\"51.6\" r=\"3.4\" fill=\"#111\" stroke=\"#fff\" stroke-width=\"1\"/><line x1=\"354.5\" y1=\"133.9\" x2=\"340.4\" y2=\"101.4\" stroke=\"#111\" stroke-width=\"2.2\"/><circle cx=\"340.4\" cy=\"101.4\" r=\"3.4\" fill=\"#111\" stroke=\"#fff\" stroke-width=\"1\"/><text x=\"314\" y=\"142\" class=\"t\" text-anchor=\"middle\">3.ª ronda</text><text x=\"314\" y=\"158\" class=\"t b\" text-anchor=\"middle\">16 puntos</text><circle cx=\"438\" cy=\"70\" r=\"50\" fill=\"#d6d6d6\" stroke=\"#222\" stroke-width=\"1.3\"/><circle cx=\"438\" cy=\"70\" r=\"33\" fill=\"#f7f7f7\" stroke=\"#222\" stroke-width=\"1.3\"/><circle cx=\"438\" cy=\"70\" r=\"15\" fill=\"#8c8c8c\" stroke=\"#222\" stroke-width=\"1.3\"/><line x1=\"407.5\" y1=\"40.8\" x2=\"431.9\" y2=\"66.5\" stroke=\"#111\" stroke-width=\"2.2\"/><circle cx=\"431.9\" cy=\"66.5\" r=\"3.4\" fill=\"#111\" stroke=\"#fff\" stroke-width=\"1\"/><line x1=\"472.0\" y1=\"45.0\" x2=\"442.5\" y2=\"64.6\" stroke=\"#111\" stroke-width=\"2.2\"/><circle cx=\"442.5\" cy=\"64.6\" r=\"3.4\" fill=\"#111\" stroke=\"#fff\" stroke-width=\"1\"/><line x1=\"467.6\" y1=\"120.9\" x2=\"453.4\" y2=\"88.4\" stroke=\"#111\" stroke-width=\"2.2\"/><circle cx=\"453.4\" cy=\"88.4\" r=\"3.4\" fill=\"#111\" stroke=\"#fff\" stroke-width=\"1\"/><text x=\"438\" y=\"142\" class=\"t\" text-anchor=\"middle\">4.ª ronda</text><text x=\"438\" y=\"158\" class=\"t b\" text-anchor=\"middle\">¿?</text></svg></div>¿Cuántos puntos obtuvo Diego en la cuarta ronda?",
+   "opts": [
+    "21",
+    "19",
+    "24",
+    "16"
+   ],
+   "a": 0,
+   "why": "<i>Similar a la pregunta 41 de 2025 y a la 23 de 2024 (puntajes de tiro al blanco).</i> Sean c, m y e los puntos del centro, del medio y del exterior. 1.ª ronda: 2e + m = 11. 2.ª ronda: e + 2m = 13. Sumando: 3e + 3m = 24, así que e + m = 8; restando: m − e = 2. Entonces m = 5 y e = 3. 3.ª ronda: c + m + e = 16, así que c = 16 − 8 = 8. 4.ª ronda: 2c + m = 16 + 5 = 21. La B intercambia los valores del medio y del exterior (2 × 8 + 3). La C cuenta los tres dardos en el centro (3 × 8). La D supone que tres dardos siempre suman lo mismo que en la tercera ronda."
+  },
+  {
+   "n": 27,
+   "area": "mat",
+   "ctx": null,
+   "stem": "Un monumento está formado por un prisma de base cuadrada y, encima, una pirámide con la misma base. El lado de la base mide 6 m y el prisma tiene 7 m de altura. En la pirámide, la altura de cada cara triangular (la línea discontinua) mide 5 m.<div class='fc fila'><svg viewBox=\"0 0 230 228\" width=\"220\" class=\"fig\"><defs><marker id=\"fl5\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto-start-reverse\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#111\"/></marker></defs><style>.t{font-size:12px;fill:#111}</style>\n<line x1=\"99.7\" y1=\"66.0\" x2=\"99.7\" y2=\"164.0\" stroke=\"#777\" stroke-dasharray=\"3 2\"/>\n<line x1=\"70.0\" y1=\"193.7\" x2=\"99.7\" y2=\"164.0\" stroke=\"#777\" stroke-dasharray=\"3 2\"/>\n<line x1=\"99.7\" y1=\"164.0\" x2=\"183.7\" y2=\"164.0\" stroke=\"#777\" stroke-dasharray=\"3 2\"/>\n<polygon points=\"154.0,95.7 183.7,66.0 183.7,164.0 154.0,193.7\" fill=\"#d9d9d9\" stroke=\"#111\" stroke-width=\"1.5\"/>\n<rect x=\"70\" y=\"95.7\" width=\"84\" height=\"98\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.5\"/>\n<polygon points=\"126.8,24.8 154.0,95.7 183.7,66.0\" fill=\"#d0d0d0\" stroke=\"#111\" stroke-width=\"1.5\"/>\n<polygon points=\"126.8,24.8 70.0,95.7 154.0,95.7\" fill=\"#f4f4f4\" stroke=\"#111\" stroke-width=\"1.5\"/>\n<line x1=\"126.8\" y1=\"24.8\" x2=\"99.7\" y2=\"66.0\" stroke=\"#777\" stroke-dasharray=\"3 2\"/>\n<line x1=\"70.0\" y1=\"95.7\" x2=\"99.7\" y2=\"66.0\" stroke=\"#777\" stroke-dasharray=\"3 2\"/>\n<line x1=\"99.7\" y1=\"66.0\" x2=\"183.7\" y2=\"66.0\" stroke=\"#777\" stroke-dasharray=\"3 2\"/>\n<line x1=\"126.8\" y1=\"24.8\" x2=\"112.0\" y2=\"95.7\" stroke=\"#111\" stroke-width=\"1.2\" stroke-dasharray=\"5 3\"/>\n<line x1=\"117.4\" y1=\"60.3\" x2=\"56.0\" y2=\"42.3\" stroke=\"#111\" stroke-width=\"0.8\"/>\n<text x=\"53.0\" y=\"46.3\" class=\"t\" text-anchor=\"end\">5 m</text>\n<line x1=\"70\" y1=\"205.7\" x2=\"154\" y2=\"205.7\" stroke=\"#111\" marker-start=\"url(#fl5)\" marker-end=\"url(#fl5)\"/>\n<text x=\"112.0\" y=\"220.7\" class=\"t\" text-anchor=\"middle\">6 m</text>\n<line x1=\"58\" y1=\"95.7\" x2=\"58\" y2=\"193.7\" stroke=\"#111\" marker-start=\"url(#fl5)\" marker-end=\"url(#fl5)\"/>\n<text x=\"53\" y=\"148.7\" class=\"t\" text-anchor=\"end\">7 m</text></svg><div style='text-align:left'>Volumen del prisma =<br>área de la base × altura<br><br>Volumen de la pirámide =<br>(área de la base × altura) ÷ 3</div></div>¿Cuál es el volumen del monumento?",
+   "opts": [
+    "300 m³",
+    "312 m³",
+    "396 m³",
+    "324 m³"
+   ],
+   "a": 0,
+   "why": "<i>Similar a la pregunta 33 de 2026 (volumen de un obelisco: prisma más pirámide).</i> El 5 m NO es la altura de la pirámide: es la altura de una cara inclinada. La altura h de la pirámide, la mitad del lado (3 m) y esa línea de 5 m forman un triángulo rectángulo: h² + 3² = 5², h² = 25 − 9 = 16 y h = 4 m. Prisma: 6 × 6 × 7 = 252 m³. Pirámide: 36 × 4 ÷ 3 = 48 m³. Total: 300 m³. La B usa 5 m como altura de la pirámide (36 × 5 ÷ 3 = 60). La C olvida dividir entre 3 (36 × 4 = 144). La D divide entre 2, como en el área de un triángulo (36 × 4 ÷ 2 = 72)."
+  },
+  {
+   "n": 28,
+   "area": "mat",
+   "ctx": null,
+   "stem": "En la cuadrícula de puntos, la distancia horizontal o vertical entre dos puntos vecinos es 1 cm.<div class='fc'><svg viewBox=\"0 0 330 222\" width=\"320\" class=\"fig\"><defs><marker id=\"fl7\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto-start-reverse\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#111\"/></marker></defs><style>.t{font-size:11px;fill:#111}</style><circle cx=\"30\" cy=\"208\" r=\"2.3\" fill=\"#333\"/><circle cx=\"30\" cy=\"186\" r=\"2.3\" fill=\"#333\"/><circle cx=\"30\" cy=\"164\" r=\"2.3\" fill=\"#333\"/><circle cx=\"30\" cy=\"142\" r=\"2.3\" fill=\"#333\"/><circle cx=\"30\" cy=\"120\" r=\"2.3\" fill=\"#333\"/><circle cx=\"30\" cy=\"98\" r=\"2.3\" fill=\"#333\"/><circle cx=\"30\" cy=\"76\" r=\"2.3\" fill=\"#333\"/><circle cx=\"30\" cy=\"54\" r=\"2.3\" fill=\"#333\"/><circle cx=\"30\" cy=\"32\" r=\"2.3\" fill=\"#333\"/><circle cx=\"52\" cy=\"208\" r=\"2.3\" fill=\"#333\"/><circle cx=\"52\" cy=\"186\" r=\"2.3\" fill=\"#333\"/><circle cx=\"52\" cy=\"164\" r=\"2.3\" fill=\"#333\"/><circle cx=\"52\" cy=\"142\" r=\"2.3\" fill=\"#333\"/><circle cx=\"52\" cy=\"120\" r=\"2.3\" fill=\"#333\"/><circle cx=\"52\" cy=\"98\" r=\"2.3\" fill=\"#333\"/><circle cx=\"52\" cy=\"76\" r=\"2.3\" fill=\"#333\"/><circle cx=\"52\" cy=\"54\" r=\"2.3\" fill=\"#333\"/><circle cx=\"52\" cy=\"32\" r=\"2.3\" fill=\"#333\"/><circle cx=\"74\" cy=\"208\" r=\"2.3\" fill=\"#333\"/><circle cx=\"74\" cy=\"186\" r=\"2.3\" fill=\"#333\"/><circle cx=\"74\" cy=\"164\" r=\"2.3\" fill=\"#333\"/><circle cx=\"74\" cy=\"142\" r=\"2.3\" fill=\"#333\"/><circle cx=\"74\" cy=\"120\" r=\"2.3\" fill=\"#333\"/><circle cx=\"74\" cy=\"98\" r=\"2.3\" fill=\"#333\"/><circle cx=\"74\" cy=\"76\" r=\"2.3\" fill=\"#333\"/><circle cx=\"74\" cy=\"54\" r=\"2.3\" fill=\"#333\"/><circle cx=\"74\" cy=\"32\" r=\"2.3\" fill=\"#333\"/><circle cx=\"96\" cy=\"208\" r=\"2.3\" fill=\"#333\"/><circle cx=\"96\" cy=\"186\" r=\"2.3\" fill=\"#333\"/><circle cx=\"96\" cy=\"164\" r=\"2.3\" fill=\"#333\"/><circle cx=\"96\" cy=\"142\" r=\"2.3\" fill=\"#333\"/><circle cx=\"96\" cy=\"120\" r=\"2.3\" fill=\"#333\"/><circle cx=\"96\" cy=\"98\" r=\"2.3\" fill=\"#333\"/><circle cx=\"96\" cy=\"76\" r=\"2.3\" fill=\"#333\"/><circle cx=\"96\" cy=\"54\" r=\"2.3\" fill=\"#333\"/><circle cx=\"96\" cy=\"32\" r=\"2.3\" fill=\"#333\"/><circle cx=\"118\" cy=\"208\" r=\"2.3\" fill=\"#333\"/><circle cx=\"118\" cy=\"186\" r=\"2.3\" fill=\"#333\"/><circle cx=\"118\" cy=\"164\" r=\"2.3\" fill=\"#333\"/><circle cx=\"118\" cy=\"142\" r=\"2.3\" fill=\"#333\"/><circle cx=\"118\" cy=\"120\" r=\"2.3\" fill=\"#333\"/><circle cx=\"118\" cy=\"98\" r=\"2.3\" fill=\"#333\"/><circle cx=\"118\" cy=\"76\" r=\"2.3\" fill=\"#333\"/><circle cx=\"118\" cy=\"54\" r=\"2.3\" fill=\"#333\"/><circle cx=\"118\" cy=\"32\" r=\"2.3\" fill=\"#333\"/><circle cx=\"140\" cy=\"208\" r=\"2.3\" fill=\"#333\"/><circle cx=\"140\" cy=\"186\" r=\"2.3\" fill=\"#333\"/><circle cx=\"140\" cy=\"164\" r=\"2.3\" fill=\"#333\"/><circle cx=\"140\" cy=\"142\" r=\"2.3\" fill=\"#333\"/><circle cx=\"140\" cy=\"120\" r=\"2.3\" fill=\"#333\"/><circle cx=\"140\" cy=\"98\" r=\"2.3\" fill=\"#333\"/><circle cx=\"140\" cy=\"76\" r=\"2.3\" fill=\"#333\"/><circle cx=\"140\" cy=\"54\" r=\"2.3\" fill=\"#333\"/><circle cx=\"140\" cy=\"32\" r=\"2.3\" fill=\"#333\"/><circle cx=\"162\" cy=\"208\" r=\"2.3\" fill=\"#333\"/><circle cx=\"162\" cy=\"186\" r=\"2.3\" fill=\"#333\"/><circle cx=\"162\" cy=\"164\" r=\"2.3\" fill=\"#333\"/><circle cx=\"162\" cy=\"142\" r=\"2.3\" fill=\"#333\"/><circle cx=\"162\" cy=\"120\" r=\"2.3\" fill=\"#333\"/><circle cx=\"162\" cy=\"98\" r=\"2.3\" fill=\"#333\"/><circle cx=\"162\" cy=\"76\" r=\"2.3\" fill=\"#333\"/><circle cx=\"162\" cy=\"54\" r=\"2.3\" fill=\"#333\"/><circle cx=\"162\" cy=\"32\" r=\"2.3\" fill=\"#333\"/><circle cx=\"184\" cy=\"208\" r=\"2.3\" fill=\"#333\"/><circle cx=\"184\" cy=\"186\" r=\"2.3\" fill=\"#333\"/><circle cx=\"184\" cy=\"164\" r=\"2.3\" fill=\"#333\"/><circle cx=\"184\" cy=\"142\" r=\"2.3\" fill=\"#333\"/><circle cx=\"184\" cy=\"120\" r=\"2.3\" fill=\"#333\"/><circle cx=\"184\" cy=\"98\" r=\"2.3\" fill=\"#333\"/><circle cx=\"184\" cy=\"76\" r=\"2.3\" fill=\"#333\"/><circle cx=\"184\" cy=\"54\" r=\"2.3\" fill=\"#333\"/><circle cx=\"184\" cy=\"32\" r=\"2.3\" fill=\"#333\"/><circle cx=\"206\" cy=\"208\" r=\"2.3\" fill=\"#333\"/><circle cx=\"206\" cy=\"186\" r=\"2.3\" fill=\"#333\"/><circle cx=\"206\" cy=\"164\" r=\"2.3\" fill=\"#333\"/><circle cx=\"206\" cy=\"142\" r=\"2.3\" fill=\"#333\"/><circle cx=\"206\" cy=\"120\" r=\"2.3\" fill=\"#333\"/><circle cx=\"206\" cy=\"98\" r=\"2.3\" fill=\"#333\"/><circle cx=\"206\" cy=\"76\" r=\"2.3\" fill=\"#333\"/><circle cx=\"206\" cy=\"54\" r=\"2.3\" fill=\"#333\"/><circle cx=\"206\" cy=\"32\" r=\"2.3\" fill=\"#333\"/><circle cx=\"228\" cy=\"208\" r=\"2.3\" fill=\"#333\"/><circle cx=\"228\" cy=\"186\" r=\"2.3\" fill=\"#333\"/><circle cx=\"228\" cy=\"164\" r=\"2.3\" fill=\"#333\"/><circle cx=\"228\" cy=\"142\" r=\"2.3\" fill=\"#333\"/><circle cx=\"228\" cy=\"120\" r=\"2.3\" fill=\"#333\"/><circle cx=\"228\" cy=\"98\" r=\"2.3\" fill=\"#333\"/><circle cx=\"228\" cy=\"76\" r=\"2.3\" fill=\"#333\"/><circle cx=\"228\" cy=\"54\" r=\"2.3\" fill=\"#333\"/><circle cx=\"228\" cy=\"32\" r=\"2.3\" fill=\"#333\"/><circle cx=\"250\" cy=\"208\" r=\"2.3\" fill=\"#333\"/><circle cx=\"250\" cy=\"186\" r=\"2.3\" fill=\"#333\"/><circle cx=\"250\" cy=\"164\" r=\"2.3\" fill=\"#333\"/><circle cx=\"250\" cy=\"142\" r=\"2.3\" fill=\"#333\"/><circle cx=\"250\" cy=\"120\" r=\"2.3\" fill=\"#333\"/><circle cx=\"250\" cy=\"98\" r=\"2.3\" fill=\"#333\"/><circle cx=\"250\" cy=\"76\" r=\"2.3\" fill=\"#333\"/><circle cx=\"250\" cy=\"54\" r=\"2.3\" fill=\"#333\"/><circle cx=\"250\" cy=\"32\" r=\"2.3\" fill=\"#333\"/><circle cx=\"272\" cy=\"208\" r=\"2.3\" fill=\"#333\"/><circle cx=\"272\" cy=\"186\" r=\"2.3\" fill=\"#333\"/><circle cx=\"272\" cy=\"164\" r=\"2.3\" fill=\"#333\"/><circle cx=\"272\" cy=\"142\" r=\"2.3\" fill=\"#333\"/><circle cx=\"272\" cy=\"120\" r=\"2.3\" fill=\"#333\"/><circle cx=\"272\" cy=\"98\" r=\"2.3\" fill=\"#333\"/><circle cx=\"272\" cy=\"76\" r=\"2.3\" fill=\"#333\"/><circle cx=\"272\" cy=\"54\" r=\"2.3\" fill=\"#333\"/><circle cx=\"272\" cy=\"32\" r=\"2.3\" fill=\"#333\"/><polygon points=\"52,186 250,186 206,120 250,54 30,54\" fill=\"#e3e3e3\" fill-opacity=\"0.75\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"52\" cy=\"186\" r=\"3.2\" fill=\"#111\"/><circle cx=\"250\" cy=\"186\" r=\"3.2\" fill=\"#111\"/><circle cx=\"206\" cy=\"120\" r=\"3.2\" fill=\"#111\"/><circle cx=\"250\" cy=\"54\" r=\"3.2\" fill=\"#111\"/><circle cx=\"30\" cy=\"54\" r=\"3.2\" fill=\"#111\"/><line x1=\"30\" y1=\"16\" x2=\"52\" y2=\"16\" stroke=\"#111\" marker-start=\"url(#fl7)\" marker-end=\"url(#fl7)\"/><text x=\"41.0\" y=\"10\" class=\"t\" text-anchor=\"middle\">1 cm</text><line x1=\"284\" y1=\"32\" x2=\"284\" y2=\"54\" stroke=\"#111\" marker-start=\"url(#fl7)\" marker-end=\"url(#fl7)\"/><text x=\"290\" y=\"47.0\" class=\"t\">1 cm</text></svg></div>¿Cuál es el área del polígono sombreado?",
+   "opts": [
+    "54 cm²",
+    "51 cm²",
+    "57 cm²",
+    "45 cm²"
+   ],
+   "a": 1,
+   "why": "<i>Similar a la pregunta 29 de 2026 (área de un polígono en una cuadrícula de puntos).</i> Se encierra el polígono en un rectángulo de 10 cm por 6 cm: 60 cm². Luego se restan las partes que sobran. A la izquierda, un triángulo de base 1 cm y altura 6 cm: 1 × 6 ÷ 2 = 3 cm². A la derecha, la «muesca» es un triángulo de base 6 cm (vertical) y altura 2 cm: 6 × 2 ÷ 2 = 6 cm². Área: 60 − 3 − 6 = 51 cm². La A olvida el triángulo de la izquierda, y la C, la muesca. La D resta la muesca como si fuera un rectángulo de 2 × 6 = 12 cm²."
+  },
+  {
+   "n": 29,
+   "area": "mat",
+   "ctx": null,
+   "stem": "En la figura, AB = BC, el punto D está en la prolongación del lado AB y el punto E está en el lado AC. Además, m∠ADE = 15° y m∠CED = 50°.<div class='fc'><svg viewBox=\"0 0 318 204\" width=\"318\" class=\"fig\"><style>.p{font-size:13px;font-weight:700;fill:#111}.t{font-size:12px;fill:#111;font-style:italic}</style><line x1=\"30.0\" y1=\"177.9\" x2=\"278.0\" y2=\"177.9\" stroke=\"#111\" stroke-width=\"1.6\"/><line x1=\"30.0\" y1=\"177.9\" x2=\"255.5\" y2=\"20.0\" stroke=\"#111\" stroke-width=\"1.6\"/><line x1=\"154.0\" y1=\"91.1\" x2=\"278.0\" y2=\"177.9\" stroke=\"#111\" stroke-width=\"1.6\"/><line x1=\"123.0\" y1=\"177.9\" x2=\"255.5\" y2=\"20.0\" stroke=\"#111\" stroke-width=\"1.6\"/><text x=\"18.0\" y=\"191.9\" class=\"p\">A</text><text x=\"284.0\" y=\"191.9\" class=\"p\">C</text><text x=\"148.0\" y=\"81.1\" class=\"p\">B</text><text x=\"119.0\" y=\"194.9\" class=\"p\">E</text><text x=\"261.5\" y=\"16.0\" class=\"p\">D</text><line x1=\"88.6\" y1=\"129.6\" x2=\"95.4\" y2=\"139.4\" stroke=\"#111\" stroke-width=\"1.6\"/><line x1=\"219.4\" y1=\"129.6\" x2=\"212.6\" y2=\"139.4\" stroke=\"#111\" stroke-width=\"1.6\"/><path d=\"M140.9,100.2 A16,16 0 0,0 167.1,100.2\" fill=\"none\" stroke=\"#111\"/><text x=\"150.0\" y=\"121.1\" class=\"t\">x</text><path d=\"M145.0,177.9 A22,22 0 0,0 137.1,161.0\" fill=\"none\" stroke=\"#111\"/><text x=\"148.0\" y=\"169.9\" class=\"t\">50°</text><path d=\"M230.9,37.2 A30,30 0 0,0 236.2,43.0\" fill=\"none\" stroke=\"#111\"/><line x1=\"232.6\" y1=\"40.9\" x2=\"207.5\" y2=\"22.0\" stroke=\"#111\" stroke-width=\"0.8\"/><text x=\"204.5\" y=\"26.0\" class=\"t\" text-anchor=\"end\">15°</text><rect x=\"2\" y=\"2\" width=\"132\" height=\"22\" fill=\"#fff\" stroke=\"#777\" stroke-dasharray=\"3 2\"/><text x=\"8\" y=\"17\" font-size=\"10.5\" fill=\"#111\">La figura no está a escala.</text></svg></div>¿Cuánto mide el ángulo <i>x</i>?",
+   "opts": [
+    "110°",
+    "130°",
+    "70°",
+    "145°"
+   ],
+   "a": 0,
+   "why": "<i>Similar a la pregunta 30 de 2026 (ángulos en una figura que no está a escala).</i> Los ángulos AED y CED forman un ángulo llano: m∠AED = 180° − 50° = 130°. En el triángulo ADE: m∠A = 180° − 15° − 130° = 35°. Como AB = BC, el triángulo ABC es isósceles y m∠C = m∠A = 35°. Entonces x = 180° − 35° − 35° = 110°. La B confunde x con el ángulo AED. La C es la suma de los dos ángulos de la base (35° + 35°), no lo que falta para 180°. La D resta solo un ángulo de la base (180° − 35°), sin usar que AB = BC."
+  },
+  {
+   "n": 30,
+   "area": "mat",
+   "ctx": null,
+   "stem": "En el rectángulo ABCD, M es el punto medio del lado AB y N es el punto medio del lado BC.<div class='fc'><svg viewBox=\"0 0 300 175\" width=\"290\" class=\"fig\"><style>.p{font-size:13px;font-weight:700;fill:#111}</style><rect x=\"30\" y=\"20\" width=\"240\" height=\"140\" fill=\"#fff\" stroke=\"#111\" stroke-width=\"1.6\"/><polygon points=\"30.0,160.0 150.0,20.0 270.0,90.0\" fill=\"#a9a9a9\" stroke=\"#111\" stroke-width=\"1.6\"/><text x=\"16\" y=\"16\" class=\"p\">A</text><text x=\"275\" y=\"16\" class=\"p\">B</text><text x=\"275\" y=\"174\" class=\"p\">C</text><text x=\"16\" y=\"174\" class=\"p\">D</text><text x=\"145.0\" y=\"13\" class=\"p\">M</text><text x=\"277\" y=\"95.0\" class=\"p\">N</text><line x1=\"90.0\" y1=\"15\" x2=\"90.0\" y2=\"25\" stroke=\"#111\" stroke-width=\"1.5\"/><line x1=\"210.0\" y1=\"15\" x2=\"210.0\" y2=\"25\" stroke=\"#111\" stroke-width=\"1.5\"/><line x1=\"265\" y1=\"53.0\" x2=\"275\" y2=\"53.0\" stroke=\"#111\" stroke-width=\"1.5\"/><line x1=\"265\" y1=\"57.0\" x2=\"275\" y2=\"57.0\" stroke=\"#111\" stroke-width=\"1.5\"/><line x1=\"265\" y1=\"123.0\" x2=\"275\" y2=\"123.0\" stroke=\"#111\" stroke-width=\"1.5\"/><line x1=\"265\" y1=\"127.0\" x2=\"275\" y2=\"127.0\" stroke=\"#111\" stroke-width=\"1.5\"/></svg></div>¿Qué porcentaje del área del rectángulo está sombreado?",
+   "opts": [
+    "37,5 %",
+    "25 %",
+    "62,5 %",
+    "38 %"
+   ],
+   "a": 0,
+   "why": "<i>Similar a la pregunta 42 de 2025 (parte sombreada con puntos medios).</i> Si el rectángulo mide b de base y a de altura, se restan los tres triángulos blancos. AMD: (b/2 × a) ÷ 2 = 1/4 del rectángulo. MBN: (b/2 × a/2) ÷ 2 = 1/8. NCD: (b × a/2) ÷ 2 = 1/4. Sombreado: 1 − 1/4 − 1/8 − 1/4 = 3/8 = 3 ÷ 8 = 0,375 = 37,5 %. La B supone que los triángulos de las esquinas son iguales a la cuarta parte cada uno. La C es la parte blanca (5/8), no la sombreada. La D lee 3/8 como 38 %: una fracción no se convierte juntando sus cifras."
+  },
+  {
+   "n": 31,
+   "area": "mat",
+   "ctx": null,
+   "stem": "Las siguientes figuras están formadas por 6 cuadrados iguales.<div class='fc'><svg viewBox=\"0 0 440 87\" width=\"493\" class=\"fig\"><style>.l{font-size:13px;font-style:italic;font-weight:700;fill:#111;text-anchor:middle}</style><rect x=\"6\" y=\"25\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"23\" y=\"25\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"40\" y=\"25\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"57\" y=\"25\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"23\" y=\"8\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"40\" y=\"42\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><text x=\"40.0\" y=\"79\" class=\"l\">i</text><rect x=\"96\" y=\"8\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"113\" y=\"8\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"130\" y=\"8\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"147\" y=\"8\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"96\" y=\"25\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"147\" y=\"25\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><text x=\"130.0\" y=\"79\" class=\"l\">ii</text><rect x=\"186\" y=\"8\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"203\" y=\"8\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"203\" y=\"25\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"220\" y=\"25\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"220\" y=\"42\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"237\" y=\"42\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><text x=\"220.0\" y=\"79\" class=\"l\">iii</text><rect x=\"276\" y=\"8\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"293\" y=\"8\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"310\" y=\"8\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"293\" y=\"25\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"293\" y=\"42\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"310\" y=\"42\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><text x=\"301.5\" y=\"79\" class=\"l\">iv</text><rect x=\"349\" y=\"25\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"366\" y=\"25\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"383\" y=\"25\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"383\" y=\"8\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"400\" y=\"8\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><rect x=\"417\" y=\"8\" width=\"17\" height=\"17\" fill=\"#efefef\" stroke=\"#111\" stroke-width=\"1.3\"/><text x=\"391.5\" y=\"79\" class=\"l\">v</text></svg></div>Si solo se permite doblar por las líneas, ¿con cuáles NO se puede armar un cubo?",
+   "opts": [
+    "Solo con la ii",
+    "Con la ii, la iv y la v",
+    "Solo con la ii y la iv",
+    "Solo con la iii y la iv"
+   ],
+   "a": 2,
+   "why": "<i>Similar a la pregunta 44 de 2026 (desarrollos que no forman un cubo).</i> En una fila de 4 cuadrados se forma un «tubo» de 4 caras; las otras dos deben tapar sus dos extremos, una a cada lado de la fila. En la i hay una arriba y otra abajo: sí forma cubo. En la ii las dos están abajo: tapan el mismo extremo y el otro queda abierto. En la iv, al doblar, los dos cuadrados de la derecha caen sobre la misma cara. La iii (escalera de 2 en 2) y la v (dos filas de 3) sí forman cubos. La A no detecta el error de la iv. La B descarta la v, que sí se arma. La D descarta la iii por su forma de escalera, que también funciona."
+  },
+  {
+   "n": 32,
+   "area": "mat",
+   "ctx": null,
+   "stem": "El gráfico muestra el consumo de agua de una familia durante cinco meses.<div class='fc'><svg viewBox=\"0 0 380 185\" width=\"380\" class=\"fig\"><style>.ax{font-size:11px;fill:#444}.vl{font-size:11px;fill:#222;font-weight:600;text-anchor:middle}</style><line x1=\"46\" y1=\"165\" x2=\"370\" y2=\"165\" stroke=\"#e2e2e2\"/><text x=\"40\" y=\"169\" class=\"ax\" text-anchor=\"end\">0</text><line x1=\"46\" y1=\"145\" x2=\"370\" y2=\"145\" stroke=\"#e2e2e2\"/><text x=\"40\" y=\"149\" class=\"ax\" text-anchor=\"end\">5</text><line x1=\"46\" y1=\"125\" x2=\"370\" y2=\"125\" stroke=\"#e2e2e2\"/><text x=\"40\" y=\"129\" class=\"ax\" text-anchor=\"end\">10</text><line x1=\"46\" y1=\"105\" x2=\"370\" y2=\"105\" stroke=\"#e2e2e2\"/><text x=\"40\" y=\"109\" class=\"ax\" text-anchor=\"end\">15</text><line x1=\"46\" y1=\"85\" x2=\"370\" y2=\"85\" stroke=\"#e2e2e2\"/><text x=\"40\" y=\"89\" class=\"ax\" text-anchor=\"end\">20</text><line x1=\"46\" y1=\"65\" x2=\"370\" y2=\"65\" stroke=\"#e2e2e2\"/><text x=\"40\" y=\"69\" class=\"ax\" text-anchor=\"end\">25</text><line x1=\"46\" y1=\"45\" x2=\"370\" y2=\"45\" stroke=\"#e2e2e2\"/><text x=\"40\" y=\"49\" class=\"ax\" text-anchor=\"end\">30</text><line x1=\"46\" y1=\"25\" x2=\"370\" y2=\"25\" stroke=\"#e2e2e2\"/><text x=\"40\" y=\"29\" class=\"ax\" text-anchor=\"end\">35</text><rect x=\"66\" y=\"93\" width=\"34\" height=\"72\" rx=\"2\" fill=\"#9a9a9a\"/><text x=\"83\" y=\"88\" class=\"vl\">18</text><text x=\"83\" y=\"180\" class=\"ax\" text-anchor=\"middle\">Ene</text><rect x=\"130\" y=\"69\" width=\"34\" height=\"96\" rx=\"2\" fill=\"#9a9a9a\"/><text x=\"147\" y=\"64\" class=\"vl\">24</text><text x=\"147\" y=\"180\" class=\"ax\" text-anchor=\"middle\">Feb</text><rect x=\"194\" y=\"45\" width=\"34\" height=\"120\" rx=\"2\" fill=\"#9a9a9a\"/><text x=\"211\" y=\"40\" class=\"vl\">30</text><text x=\"211\" y=\"180\" class=\"ax\" text-anchor=\"middle\">Mar</text><rect x=\"258\" y=\"81\" width=\"34\" height=\"84\" rx=\"2\" fill=\"#9a9a9a\"/><text x=\"275\" y=\"76\" class=\"vl\">21</text><text x=\"275\" y=\"180\" class=\"ax\" text-anchor=\"middle\">Abr</text><rect x=\"322\" y=\"57\" width=\"34\" height=\"108\" rx=\"2\" fill=\"#9a9a9a\"/><text x=\"339\" y=\"52\" class=\"vl\">27</text><text x=\"339\" y=\"180\" class=\"ax\" text-anchor=\"middle\">May</text><line x1=\"46\" y1=\"165\" x2=\"370\" y2=\"165\" stroke=\"#333\"/><text x=\"14\" y=\"105\" class=\"ax\" transform=\"rotate(-90 14 105)\" text-anchor=\"middle\">Consumo de agua (m³)</text></svg></div>¿Cuántas de las siguientes afirmaciones son verdaderas?<br>I. De enero a marzo, el consumo aumentó 40 %.<br>II. El consumo de marzo fue la cuarta parte del consumo total de los cinco meses.<br>III. De marzo a abril, el consumo disminuyó 9 %.<br>IV. El consumo de abril fue el 21 % del consumo total de los cinco meses.",
+   "opts": [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "a": 1,
+   "why": "<i>Similar a la pregunta 32 de 2026 (contar afirmaciones verdaderas) y a la 45 de 2025 (gráfico de barras).</i> Total: 18 + 24 + 30 + 21 + 27 = 120 m³. I es falsa: aumentó 12 m³ sobre los 18 de enero, 12 ÷ 18 ≈ 66,7 %; el 40 % sale de dividir entre el valor final (12 ÷ 30). II es verdadera: 120 ÷ 4 = 30. III es falsa: bajó 9 m³, que sobre 30 es 9 ÷ 30 = 30 %; 9 m³ no es 9 %. IV es falsa: 21 ÷ 120 = 0,175 = 17,5 %; 21 m³ no es 21 %. Solo una es verdadera. Las opciones A, C y D salen de aceptar una o más de las trampas: dividir entre el valor final o confundir m³ con porcentajes."
+  },
+  {
+   "n": 33,
+   "area": "mat",
+   "ctx": null,
+   "stem": "En cada figura, la flecha apunta a uno de los vértices del heptágono, numerados del 1 al 7.<div class='fc'><svg viewBox=\"0 0 480 128\" width=\"470\" class=\"fig\"><defs><marker id=\"ah\" markerUnits=\"userSpaceOnUse\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"4.5\" orient=\"auto\"><path d=\"M0,0 L9,4.5 L0,9 z\" fill=\"#111\"/></marker></defs><style>.n{font-size:11px;fill:#111;text-anchor:middle}.f{font-size:11.5px;font-style:italic;fill:#111;text-anchor:middle}</style><polygon points=\"54.0,20.0 80.6,32.8 87.1,61.6 68.8,84.6 39.2,84.6 20.9,61.6 27.4,32.8\" fill=\"#f2f2f2\" stroke=\"#111\" stroke-width=\"1.4\"/><text x=\"54.0\" y=\"13.0\" class=\"n\">1</text><text x=\"89.2\" y=\"29.9\" class=\"n\">2</text><text x=\"97.9\" y=\"68.0\" class=\"n\">3</text><text x=\"73.5\" y=\"98.5\" class=\"n\">4</text><text x=\"34.5\" y=\"98.5\" class=\"n\">5</text><text x=\"10.1\" y=\"68.0\" class=\"n\">6</text><text x=\"18.8\" y=\"29.9\" class=\"n\">7</text><line x1=\"54\" y1=\"54\" x2=\"54.0\" y2=\"27.0\" stroke=\"#111\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><circle cx=\"54\" cy=\"54\" r=\"3\" fill=\"#111\"/><text x=\"54\" y=\"118\" class=\"f\">Figura 1</text><polygon points=\"166.0,20.0 192.6,32.8 199.1,61.6 180.8,84.6 151.2,84.6 132.9,61.6 139.4,32.8\" fill=\"#f2f2f2\" stroke=\"#111\" stroke-width=\"1.4\"/><text x=\"166.0\" y=\"13.0\" class=\"n\">1</text><text x=\"201.2\" y=\"29.9\" class=\"n\">2</text><text x=\"209.9\" y=\"68.0\" class=\"n\">3</text><text x=\"185.5\" y=\"98.5\" class=\"n\">4</text><text x=\"146.5\" y=\"98.5\" class=\"n\">5</text><text x=\"122.1\" y=\"68.0\" class=\"n\">6</text><text x=\"130.8\" y=\"29.9\" class=\"n\">7</text><line x1=\"166\" y1=\"54\" x2=\"192.3\" y2=\"60.0\" stroke=\"#111\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><circle cx=\"166\" cy=\"54\" r=\"3\" fill=\"#111\"/><text x=\"166\" y=\"118\" class=\"f\">Figura 2</text><polygon points=\"278.0,20.0 304.6,32.8 311.1,61.6 292.8,84.6 263.2,84.6 244.9,61.6 251.4,32.8\" fill=\"#f2f2f2\" stroke=\"#111\" stroke-width=\"1.4\"/><text x=\"278.0\" y=\"13.0\" class=\"n\">1</text><text x=\"313.2\" y=\"29.9\" class=\"n\">2</text><text x=\"321.9\" y=\"68.0\" class=\"n\">3</text><text x=\"297.5\" y=\"98.5\" class=\"n\">4</text><text x=\"258.5\" y=\"98.5\" class=\"n\">5</text><text x=\"234.1\" y=\"68.0\" class=\"n\">6</text><text x=\"242.8\" y=\"29.9\" class=\"n\">7</text><line x1=\"278\" y1=\"54\" x2=\"251.7\" y2=\"60.0\" stroke=\"#111\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><circle cx=\"278\" cy=\"54\" r=\"3\" fill=\"#111\"/><text x=\"278\" y=\"118\" class=\"f\">Figura 3</text><polygon points=\"390.0,20.0 416.6,32.8 423.1,61.6 404.8,84.6 375.2,84.6 356.9,61.6 363.4,32.8\" fill=\"#f2f2f2\" stroke=\"#111\" stroke-width=\"1.4\"/><text x=\"390.0\" y=\"13.0\" class=\"n\">1</text><text x=\"425.2\" y=\"29.9\" class=\"n\">2</text><text x=\"433.9\" y=\"68.0\" class=\"n\">3</text><text x=\"409.5\" y=\"98.5\" class=\"n\">4</text><text x=\"370.5\" y=\"98.5\" class=\"n\">5</text><text x=\"346.1\" y=\"68.0\" class=\"n\">6</text><text x=\"354.8\" y=\"29.9\" class=\"n\">7</text><line x1=\"390\" y1=\"54\" x2=\"416.3\" y2=\"60.0\" stroke=\"#111\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><circle cx=\"390\" cy=\"54\" r=\"3\" fill=\"#111\"/><text x=\"390\" y=\"118\" class=\"f\">Figura 4</text><text x=\"458\" y=\"58\" font-size=\"20\" fill=\"#111\">…</text></svg></div>Si la secuencia continúa con la misma regla, ¿a qué número apuntará la flecha en la figura 10?",
+   "opts": [
+    "3",
+    "5",
+    "6",
+    "4"
+   ],
+   "a": 2,
+   "why": "<i>Similar a la pregunta 42 de 2026 (flecha que gira en un heptágono).</i> De la figura 1 a la 2, la flecha avanza 2 vértices (1 → 3); de la 2 a la 3, avanza 3 (3 → 6); de la 3 a la 4, avanza 4 (6 → 7, 1, 2, 3). Hasta la figura 10 avanza 2 + 3 + 4 + … + 10 = 54 vértices desde el 1. Cada 7 vértices da una vuelta completa: 54 = 7 × 7 + 5, así que quedan 5 vértices después del 1: apunta al 6. La A supone que se repiten las cuatro figuras dibujadas (1, 3, 6, 3). La B avanza siempre 2 vértices. La D avanza un vértice menos en cada paso (1, 2, 3, …, 9)."
+  },
+  {
+   "n": 34,
+   "area": "mat",
+   "ctx": null,
+   "stem": "En un taller de atletismo hay 12 varones, cuya masa promedio es 52 kg, y 8 mujeres, cuya masa promedio es 47 kg. Si se incluye la masa del entrenador, el promedio de las 21 personas sube a 51 kg. ¿Cuál es la masa del entrenador?",
+   "opts": [
+    "71 kg",
+    "81 kg",
+    "51 kg",
+    "50 kg"
+   ],
+   "a": 0,
+   "why": "<i>Similar a la pregunta 28 de 2026 (promedio de dos grupos).</i> Se trabaja con sumas, no con promedios. Varones: 12 × 52 = 624 kg. Mujeres: 8 × 47 = 376 kg. Los 20 estudiantes suman 1000 kg (promedio 50 kg). Las 21 personas suman 21 × 51 = 1071 kg. Entrenador: 1071 − 1000 = 71 kg. La B sale de promediar 52 y 47 sin tener en cuenta que hay más varones que mujeres (49,5 × 20 = 990 y 1071 − 990 = 81). La C supone que el entrenador tiene la masa del nuevo promedio, pero entonces el promedio no habría subido. La D es el promedio de los 20 estudiantes, un resultado intermedio."
+  },
+  {
+   "n": 35,
+   "area": "cyt",
+   "ctx": "s1",
+   "stem": "¿Qué pregunta de indagación quisieron responder los estudiantes?",
+   "opts": [
+    "¿Cuánta agua necesita cada día una bandeja con 40 semillas de quinua para que todas germinen?",
+    "¿Germinan más semillas de quinua que de maíz cuando se riegan con agua que contiene sal?",
+    "¿Por qué la quinua que se siembra en los valles de Ica es más nutritiva que la de la sierra?",
+    "¿Cómo influye la cantidad de sal del agua de riego en el número de semillas de quinua que germinan?"
+   ],
+   "a": 3,
+   "why": "La pregunta relaciona lo que se cambió (la cantidad de sal) con lo que se midió (las semillas germinadas). La A trata sobre el agua, que se mantuvo igual (50 mL). La B compara con el maíz, que no se usó. La C pregunta por los nutrientes, que no se midieron."
+  },
+  {
+   "n": 36,
+   "area": "cyt",
+   "ctx": "s1",
+   "stem": "¿Cuál de los siguientes cambios en el procedimiento haría que los resultados ya NO permitan saber si la sal influye en la germinación?",
+   "opts": [
+    "Usar cuatro bandejas por cada tipo de agua en lugar de solo tres.",
+    "Contar las semillas germinadas a los diez días en lugar de a los siete.",
+    "Usar 50 semillas por bandeja en lugar de 40 en todas las bandejas.",
+    "Regar las bandejas con más sal con más cantidad de agua que las demás."
+   ],
+   "a": 3,
+   "why": "Para saber si la sal es la causa, solo debe cambiar la cantidad de sal (variable independiente); todo lo demás, como el agua, la tierra o el lugar, son variables que deben controlarse. Si las bandejas con más sal reciben además más agua, cambian dos variables a la vez y no se sabría cuál produjo el efecto. Las opciones A, B y C cambian algo para todas las bandejas por igual, así que la comparación sigue siendo justa."
+  },
+  {
+   "n": 37,
+   "area": "cyt",
+   "ctx": "s1",
+   "stem": "¿Qué hipótesis se confirma con los resultados?",
+   "opts": [
+    "Si el agua de riego tiene más sal, germinan más semillas, porque la quinua necesita sal para crecer.",
+    "Si el agua de riego tiene más de 4 g/L de sal, el número de semillas de quinua que germinan disminuye.",
+    "Si se duplica la cantidad de sal del agua, el número de semillas que germinan se reduce a la mitad.",
+    "Si el agua tiene cualquier cantidad de sal, ninguna de las semillas de quinua llega a germinar en siete días."
+   ],
+   "a": 1,
+   "why": "Entre 0 y 4 g/L casi no hay cambio (37 y 36), pero desde 8 g/L el promedio baja: 31, 20 y 10. La A contradice los datos. La C no se cumple: de 4 a 8 g/L la sal se duplica y las semillas pasan de 36 a 31, no a 18. La D es falsa: con 16 g/L todavía germinan 10 semillas en promedio."
+  },
+  {
+   "n": 38,
+   "area": "cyt",
+   "ctx": "s1",
+   "stem": "¿Qué conclusión se obtiene correctamente de los resultados?",
+   "opts": [
+    "Con 12 g/L de sal germinaron 20 semillas, es decir, el 20 % de las semillas de cada bandeja.",
+    "Si se riega con 20 g/L de sal, ninguna semilla germinará, porque la gráfica llegará a cero.",
+    "Con 12 g/L de sal germinó, en promedio, la mitad de las semillas, y con 16 g/L, la cuarta parte.",
+    "La quinua es la planta de cultivo que mejor soporta la sal, porque algunas semillas germinaron con 16 g/L."
+   ],
+   "a": 2,
+   "why": "Cada bandeja tenía 40 semillas: 20 ÷ 40 = 1/2 = 50 % y 10 ÷ 40 = 1/4 = 25 %. La A confunde 20 semillas con 20 %, sin dividir entre 40. La B saca una conclusión fuera de los datos: no se probó 20 g/L, y la gráfica no tiene por qué seguir igual. La D compara con otras plantas que no se estudiaron."
+  },
+  {
+   "n": 39,
+   "area": "cyt",
+   "ctx": null,
+   "stem": "Una estudiante grita frente a una pared rocosa del cañón del Colca y escucha el eco 3 segundos después. Si el sonido viaja a 340 m/s, ¿qué fenómeno produce el eco y a qué distancia está la pared?",
+   "opts": [
+    "La reflexión del sonido; la pared está a 510 m.",
+    "La reflexión del sonido; la pared está a 1020 m.",
+    "La refracción del sonido; la pared está a 510 m.",
+    "La refracción del sonido; la pared está a 1020 m."
+   ],
+   "a": 0,
+   "why": "El eco es la reflexión del sonido: la onda rebota en la pared y vuelve. En 3 s el sonido recorre 340 × 3 = 1020 m, pero ese camino es de ida y vuelta, así que la pared está a 1020 ÷ 2 = 510 m. La B olvida dividir entre 2. La C y la D confunden reflexión con refracción, que es el cambio de dirección de una onda al pasar de un medio a otro."
+  },
+  {
+   "n": 40,
+   "area": "cyt",
+   "ctx": null,
+   "stem": "En los fuegos artificiales, las sales de estroncio producen luz roja y las de bario, luz verde. ¿Qué ocurre en los átomos para que emitan esa luz?",
+   "opts": [
+    "Sus núcleos se rompen por el calor de la explosión y liberan la energía que guardaban en forma de luz.",
+    "Sus electrones salen del átomo, chocan con el aire y lo calientan hasta que el aire se vuelve de colores.",
+    "Sus electrones absorben energía del calor, saltan a niveles más altos y, al regresar, la emiten como luz.",
+    "Sus átomos se queman y el humo que producen se tiñe del color propio de cada sustancia que se usó."
+   ],
+   "a": 2,
+   "why": "Es el salto cuántico: el calor da energía a los electrones, que pasan a un nivel de mayor energía; al volver a su nivel, liberan esa energía como luz. Cada elemento tiene niveles distintos, por eso emite un color propio. La A describe una reacción nuclear, que no ocurre en un fuego artificial. La B y la D no explican por qué cada sustancia da un color determinado."
+  },
+  {
+   "n": 41,
+   "area": "cyt",
+   "ctx": null,
+   "stem": "La tabla muestra algunas propiedades de tres materiales.\n<table class=\"dt\"><tr><th>Material</th><th>Aspecto</th><th>Al golpearlo</th><th>¿Conduce la electricidad?</th></tr><tr><td>P</td><td>Brillante</td><td>Se deforma, no se rompe</td><td>Sí</td></tr><tr><td>Q</td><td>Opaco, amarillo</td><td>Se rompe en pedazos</td><td>No</td></tr><tr><td>R</td><td>Opaco, negro</td><td>Se rompe en pedazos</td><td>Sí, pero poco</td></tr></table>\n¿Qué material conviene para fabricar los hilos de un cable eléctrico y por qué?",
+   "opts": [
+    "El R, porque conduce la electricidad y, al ser opaco, no deja pasar la luz hacia el interior del cable.",
+    "El Q, porque al no conducir la electricidad protege a las personas de recibir una descarga.",
+    "El P, porque al ser brillante refleja el calor y evita que el cable se caliente cuando se usa.",
+    "El P, porque es un metal: sus electrones libres conducen la corriente y se puede estirar en hilos."
+   ],
+   "a": 3,
+   "why": "Brillo, ductilidad (se deforma sin romperse) y buena conducción son propiedades de los metales, como el cobre. Conducen porque tienen electrones libres que se mueven con facilidad. La A elige un material frágil que conduce poco. La B describe un material útil para el forro aislante, no para los hilos. La C elige bien el material, pero con una razón falsa."
+  },
+  {
+   "n": 42,
+   "area": "cyt",
+   "ctx": null,
+   "stem": "La tapa metálica de un frasco de vidrio está muy ajustada. Si se pone solo la tapa bajo un chorro de agua caliente, se abre con facilidad. ¿Por qué?",
+   "opts": [
+    "Porque el agua caliente contrae el vidrio del frasco y deja libre la tapa metálica.",
+    "Porque el calor pasa del metal al agua y la tapa se enfría hasta encogerse un poco.",
+    "Porque el agua caliente actúa como un aceite que hace resbalar la tapa sobre el vidrio.",
+    "Porque, con el mismo aumento de temperatura, el metal se dilata más que el vidrio."
+   ],
+   "a": 3,
+   "why": "Al calentarse, los materiales se dilatan, pero no todos por igual: los metales se dilatan más que el vidrio. La tapa crece un poco más que la boca del frasco y queda más suelta. La A es falsa: el calor no contrae el vidrio. La B invierte el sentido del calor, que pasa del cuerpo más caliente (el agua) al más frío (la tapa)."
+  },
+  {
+   "n": 43,
+   "area": "cyt",
+   "ctx": null,
+   "stem": "Ana y su hermano Luis van de su casa al colegio por el mismo camino. El gráfico muestra la distancia a la casa de cada uno según el tiempo transcurrido desde que salió Ana.<div class='fc'><svg viewBox=\"0 0 350 215\" width=\"330\" class=\"fig\"><style>.a{font-size:10.5px;fill:#444}.k{font-size:12px;font-weight:700;fill:#111}</style><line x1=\"52\" y1=\"175.0\" x2=\"338\" y2=\"175.0\" stroke=\"#e2e2e2\"/><text x=\"46\" y=\"179.0\" class=\"a\" text-anchor=\"end\">0</text><line x1=\"52\" y1=\"150.0\" x2=\"338\" y2=\"150.0\" stroke=\"#e2e2e2\"/><text x=\"46\" y=\"154.0\" class=\"a\" text-anchor=\"end\">200</text><line x1=\"52\" y1=\"125.0\" x2=\"338\" y2=\"125.0\" stroke=\"#e2e2e2\"/><text x=\"46\" y=\"129.0\" class=\"a\" text-anchor=\"end\">400</text><line x1=\"52\" y1=\"100.0\" x2=\"338\" y2=\"100.0\" stroke=\"#e2e2e2\"/><text x=\"46\" y=\"104.0\" class=\"a\" text-anchor=\"end\">600</text><line x1=\"52\" y1=\"75.0\" x2=\"338\" y2=\"75.0\" stroke=\"#e2e2e2\"/><text x=\"46\" y=\"79.0\" class=\"a\" text-anchor=\"end\">800</text><line x1=\"52\" y1=\"50.0\" x2=\"338\" y2=\"50.0\" stroke=\"#e2e2e2\"/><text x=\"46\" y=\"54.0\" class=\"a\" text-anchor=\"end\">1000</text><line x1=\"52\" y1=\"25.0\" x2=\"338\" y2=\"25.0\" stroke=\"#e2e2e2\"/><text x=\"46\" y=\"29.0\" class=\"a\" text-anchor=\"end\">1200</text><line x1=\"52\" y1=\"175\" x2=\"52\" y2=\"25.0\" stroke=\"#f0f0f0\"/><text x=\"52\" y=\"189\" class=\"a\" text-anchor=\"middle\">0</text><line x1=\"78\" y1=\"175\" x2=\"78\" y2=\"25.0\" stroke=\"#f0f0f0\"/><text x=\"78\" y=\"189\" class=\"a\" text-anchor=\"middle\">2</text><line x1=\"104\" y1=\"175\" x2=\"104\" y2=\"25.0\" stroke=\"#f0f0f0\"/><text x=\"104\" y=\"189\" class=\"a\" text-anchor=\"middle\">4</text><line x1=\"130\" y1=\"175\" x2=\"130\" y2=\"25.0\" stroke=\"#f0f0f0\"/><text x=\"130\" y=\"189\" class=\"a\" text-anchor=\"middle\">6</text><line x1=\"156\" y1=\"175\" x2=\"156\" y2=\"25.0\" stroke=\"#f0f0f0\"/><text x=\"156\" y=\"189\" class=\"a\" text-anchor=\"middle\">8</text><line x1=\"182\" y1=\"175\" x2=\"182\" y2=\"25.0\" stroke=\"#f0f0f0\"/><text x=\"182\" y=\"189\" class=\"a\" text-anchor=\"middle\">10</text><line x1=\"208\" y1=\"175\" x2=\"208\" y2=\"25.0\" stroke=\"#f0f0f0\"/><text x=\"208\" y=\"189\" class=\"a\" text-anchor=\"middle\">12</text><line x1=\"234\" y1=\"175\" x2=\"234\" y2=\"25.0\" stroke=\"#f0f0f0\"/><text x=\"234\" y=\"189\" class=\"a\" text-anchor=\"middle\">14</text><line x1=\"260\" y1=\"175\" x2=\"260\" y2=\"25.0\" stroke=\"#f0f0f0\"/><text x=\"260\" y=\"189\" class=\"a\" text-anchor=\"middle\">16</text><line x1=\"286\" y1=\"175\" x2=\"286\" y2=\"25.0\" stroke=\"#f0f0f0\"/><text x=\"286\" y=\"189\" class=\"a\" text-anchor=\"middle\">18</text><line x1=\"312\" y1=\"175\" x2=\"312\" y2=\"25.0\" stroke=\"#f0f0f0\"/><text x=\"312\" y=\"189\" class=\"a\" text-anchor=\"middle\">20</text><line x1=\"338\" y1=\"175\" x2=\"338\" y2=\"25.0\" stroke=\"#f0f0f0\"/><text x=\"338\" y=\"189\" class=\"a\" text-anchor=\"middle\">22</text><line x1=\"52\" y1=\"175\" x2=\"338\" y2=\"175\" stroke=\"#333\"/><line x1=\"52\" y1=\"175\" x2=\"52\" y2=\"18.75\" stroke=\"#333\"/><line x1=\"52\" y1=\"175\" x2=\"312\" y2=\"25.0\" stroke=\"#111\" stroke-width=\"2.4\"/><line x1=\"130\" y1=\"175\" x2=\"234\" y2=\"25.0\" stroke=\"#8a8a8a\" stroke-width=\"2.4\" stroke-dasharray=\"7 4\"/><text x=\"253.5\" y=\"72.5\" class=\"k\">Ana</text><text x=\"176.8\" y=\"46.25\" class=\"k\" text-anchor=\"end\">Luis</text><text x=\"195\" y=\"205\" class=\"a\" text-anchor=\"middle\">Tiempo desde que sale Ana (min)</text><text x=\"13\" y=\"100.0\" class=\"a\" transform=\"rotate(-90 13 100.0)\" text-anchor=\"middle\">Distancia a la casa (m)</text></svg></div>¿Cuál de las siguientes afirmaciones es correcta?",
+   "opts": [
+    "Ana camina a 6 km/h y llega al colegio en 20 minutos.",
+    "Luis tarda 14 minutos en ir de la casa al colegio.",
+    "Luis alcanza a Ana cuando ambos están a 600 m de la casa.",
+    "Luis va a una rapidez que es el doble de la rapidez de Ana."
+   ],
+   "a": 2,
+   "why": "Las líneas se cruzan en el minuto 10, a 600 m de la casa: ahí Luis alcanza a Ana. Ana recorre 1200 m en 20 min, es decir, 60 m por minuto: 60 × 60 = 3600 m por hora = 3,6 km/h; la A se equivoca al convertir. Luis sale en el minuto 6 y llega en el 14: tarda 8 minutos, no 14 (B). Luis hace 1200 m en 8 min = 150 m por minuto, que es 2,5 veces la rapidez de Ana, no el doble (D)."
+  },
+  {
+   "n": 44,
+   "area": "cyt",
+   "ctx": null,
+   "stem": "Para subir un saco de papas de 50 kg a un camión de 1,2 m de altura, se usa una rampa de 4 m de largo. Si no se considera el rozamiento y g = 10 m/s², ¿qué fuerza mínima, paralela a la rampa, se necesita y cuánto trabajo se realiza?",
+   "opts": [
+    "500 N y 600 J",
+    "150 N y 180 J",
+    "125 N y 500 J",
+    "150 N y 600 J"
+   ],
+   "a": 3,
+   "why": "Levantar el saco directamente exige vencer su peso, 50 × 10 = 500 N, y el trabajo es 500 × 1,2 = 600 J. La rampa no ahorra trabajo, pero reparte el esfuerzo en una distancia mayor: F × 4 = 600, así que F = 150 N. La A supone que la rampa no da ninguna ventaja. La B multiplica la fuerza por la altura en lugar de por el largo de la rampa. La C divide el peso entre el largo de la rampa sin usar la altura."
+  },
+  {
+   "n": 45,
+   "area": "cyt",
+   "ctx": null,
+   "stem": "En un pastizal de la puna, los pastos captan 80 000 kJ de energía. Las vicuñas comen los pastos y los pumas cazan vicuñas. Si de un nivel al siguiente pasa solo cerca del 10 % de la energía, ¿cuánta energía llega a los pumas?",
+   "opts": [
+    "800 kJ",
+    "8000 kJ",
+    "80 kJ",
+    "64 800 kJ"
+   ],
+   "a": 0,
+   "why": "Pastos → vicuñas: 10 % de 80 000 = 8000 kJ. Vicuñas → pumas: 10 % de 8000 = 800 kJ. El 90 % restante se pierde en cada nivel, sobre todo como calor en la respiración. Por eso hay muchos menos pumas que vicuñas. La B es la energía de las vicuñas. La C da un paso de más, y la D resta solo el 10 % en cada nivel (80 000 × 0,9 × 0,9), cuando lo que pasa es el 10 %."
+  },
+  {
+   "n": 46,
+   "area": "cyt",
+   "ctx": null,
+   "stem": "Un paciente deja de tomar su antibiótico al tercer día porque se siente mejor. Semanas después, la infección regresa y ese antibiótico ya casi no le hace efecto. ¿Qué explica este hecho?",
+   "opts": [
+    "Las bacterias se acostumbraron poco a poco al antibiótico y aprendieron a defenderse de él.",
+    "Sobrevivieron las bacterias más resistentes, que ya existían, y se multiplicaron: es selección natural.",
+    "El antibiótico transformó a todas las bacterias en resistentes mientras el paciente lo tomaba.",
+    "El cuerpo del paciente se volvió resistente al antibiótico y ya no deja que este actúe sobre las bacterias."
+   ],
+   "a": 1,
+   "why": "Entre las bacterias hay variación: algunas resisten más el antibiótico. Al cortar el tratamiento, mueren las más débiles y sobreviven las más resistentes, que se reproducen y forman una población nueva, casi toda resistente. Es selección natural: el ambiente (el antibiótico) «elige». La A es un error común: una bacteria no cambia sus genes por costumbre. La C supone que el antibiótico crea la resistencia, y la D atribuye la resistencia al paciente, no a las bacterias."
+  },
+  {
+   "n": 47,
+   "area": "cyt",
+   "ctx": null,
+   "stem": "La euglena es un organismo unicelular que nada hacia la luz: tiene una mancha que detecta la luz y un flagelo que la mueve. Una persona que ve una linterna encendida y camina hacia ella también responde a la luz. ¿Qué diferencia hay entre ambas respuestas?",
+   "opts": [
+    "La euglena no responde realmente a la luz, porque los organismos de una sola célula no tienen ninguna forma de relación.",
+    "En la persona, cada célula del cuerpo detecta la luz y se mueve por su cuenta hacia ella, igual que la euglena.",
+    "Ambas usan órganos de los sentidos y un sistema nervioso, pero los de la euglena son mucho más pequeños.",
+    "En la euglena, una sola célula detecta y responde; en la persona, lo hacen células especializadas coordinadas por el sistema nervioso."
+   ],
+   "a": 3,
+   "why": "La función de relación existe en los dos. En la euglena, la misma célula detecta el estímulo (mancha ocular) y responde (flagelo). En la persona, el trabajo se reparte: células del ojo detectan la luz, las neuronas llevan y procesan la información y los músculos producen el movimiento. La A niega la relación en los unicelulares. La B atribuye a cada célula humana lo que hace la euglena, y la C le da a un organismo de una célula órganos y sistemas que no tiene."
+  },
+  {
+   "n": 48,
+   "area": "cyt",
+   "ctx": null,
+   "stem": "Los bofedales de la puna funcionan como esponjas: almacenan el agua de las lluvias y la liberan poco a poco en la época seca, y en ellos pastan alpacas y llamas. Una comunidad propone drenar su bofedal para sembrar papa. ¿Cuál es el argumento científico más sólido en contra?",
+   "opts": [
+    "La papa no puede crecer en la puna, porque a esa altura no hay luz suficiente para la fotosíntesis.",
+    "Se perdería la regulación del agua, de la que dependen en la época seca los que viven río abajo.",
+    "Las alpacas y las llamas dejarían de producir fibra, porque solo pueden comer los pastos del bofedal.",
+    "Drenar un bofedal está prohibido, y por eso cualquier argumento a favor de hacerlo es incorrecto."
+   ],
+   "a": 1,
+   "why": "Un bofedal da servicios ecosistémicos: el más importante aquí es la regulación del agua, que beneficia a toda la cuenca, también a quienes viven lejos. Drenarlo cambiaría un servicio para muchos por una cosecha para pocos. La A es falsa: en la puna hay mucha radiación solar. La C exagera, y la D no es un argumento científico: no explica qué se perdería."
+  },
+  {
+   "n": 49,
+   "area": "cyt",
+   "ctx": null,
+   "stem": "Unos estudiantes armaron un filtro de agua con una botella cortada y puesta boca abajo, con el pico abajo. De arriba hacia abajo colocaron: algodón, carbón, arena fina y piedras. Al probarlo, el agua salía con arena. ¿Cuál es el error y cómo deben corregirlo?",
+   "opts": [
+    "Falta una capa de sal en el fondo para que la arena se disuelva antes de salir de la botella.",
+    "La botella es muy pequeña: deben usar un bidón más grande con las mismas capas y el mismo orden.",
+    "El carbón ensucia el agua: deben quitarlo y dejar solo las capas de algodón, arena y piedras.",
+    "El orden de las capas: piedras arriba y algodón junto al pico, para que retenga la arena."
+   ],
+   "a": 3,
+   "why": "Las capas deben ir de lo más grueso a lo más fino en el sentido en que baja el agua: piedras arriba, luego arena y carbón, y el algodón abajo, junto al pico, para retener las partículas finas. Con las piedras abajo, la arena se escapa por sus huecos. La A es imposible: la arena no se disuelve. La B y la C cambian el tamaño o quitan una capa útil (el carbón retiene olores y colores) sin corregir el error. Aun bien armado, el agua filtrada debe hervirse antes de beberla."
+  },
+  {
+   "n": 50,
+   "area": "cyt",
+   "ctx": null,
+   "stem": "La tabla muestra cuántos gramos de dióxido de carbono (CO₂) se emiten, en promedio, para generar 1 kWh de electricidad con distintas fuentes.\n<table class=\"dt\"><tr><th>Fuente</th><th>Carbón</th><th>Gas natural</th><th>Solar</th><th>Hidroeléctrica</th><th>Eólica</th></tr><tr><th>g de CO₂ por kWh</th><td>820</td><td>490</td><td>45</td><td>24</td><td>12</td></tr></table>\nUn distrito consume 2 000 000 kWh al año, que hoy se generan con gas natural. Si esa electricidad se generara con energía eólica, ¿cuánto CO₂ dejaría de emitirse cada año? (1 tonelada = 1 000 000 g)",
+   "opts": [
+    "980 toneladas",
+    "956 toneladas",
+    "956 kilogramos",
+    "24 toneladas"
+   ],
+   "a": 1,
+   "why": "Con gas natural: 490 × 2 000 000 = 980 000 000 g = 980 t. Con energía eólica: 12 × 2 000 000 = 24 000 000 g = 24 t. Se dejarían de emitir 980 − 24 = 956 t. La energía eólica no es cero emisiones (fabricar e instalar los molinos emite algo), pero es mucho menor. La A olvida restar lo que emite la eólica. La C usa la unidad equivocada: 956 000 000 g son 956 000 kg, no 956 kg, y la D es solo lo que emitiría la energía eólica."
+  }
+ ]
+}
