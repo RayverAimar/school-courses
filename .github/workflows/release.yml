@@ -45,6 +45,8 @@ jobs:
             release/*.AppImage
             release/*.deb
           if-no-files-found: error
+          # The installers live in the GitHub Release; the artifact only carries them there.
+          retention-days: 1
   release:
     needs: build
     runs-on: ubuntu-latest
