@@ -1,0 +1,11 @@
+{
+  "id": "school-courses",
+  "name": "Compass",
+  "prefix": "compass",
+  "repo": "RayverAimar/school-courses",
+  "mark": "compass",
+  "langs": ["es"],
+  "defaultLang": "es",
+  "artifact": "compass",
+  "appId": "pe.rayver.compass", "userDataDirs": ["Compass", "school-courses"]
+}

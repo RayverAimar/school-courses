@@ -1,0 +1,59 @@
+{
+  "name": "school-courses",
+  "version": "0.1.0",
+  "description": "Cursos de colegio (primaria y secundaria) con lecciones cortas, quizzes, repaso espaciado y simulacros: sitio estático y app de escritorio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/check-structure.mjs",
+    "app": "node scripts/build.mjs && electron .",
+    "app:icons": "node platform/build/icons.mjs",
+    "dist": "node scripts/build.mjs && node platform/build/icons.mjs && electron-builder --config electron-builder.config.cjs",
+    "dist:mac": "node scripts/build.mjs && node platform/build/icons.mjs && electron-builder --config electron-builder.config.cjs --mac",
+    "dist:win": "node scripts/build.mjs && node platform/build/icons.mjs && electron-builder --config electron-builder.config.cjs --win",
+    "dist:linux": "node scripts/build.mjs && node platform/build/icons.mjs && electron-builder --config electron-builder.config.cjs --linux",
+    "smoke": "node scripts/smoke-app.mjs"
+  },
+  "keywords": [
+    "courses",
+    "school",
+    "peru",
+    "coar",
+    "study"
+  ],
+  "author": "Rayver Aimar Muñoz Curi <rayver@canaria.xyz>",
+  "homepage": "https://rayveraimar.github.io/school-courses/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayverAimar/school-courses.git"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "main": "platform/electron/main.cjs",
+  "devDependencies": {
+    "@fontsource-variable/bricolage-grotesque": "5.3.0",
+    "@fontsource-variable/newsreader": "5.3.0",
+    "@resvg/resvg-js": "2.6.2",
+    "electron": "44.7.0",
+    "electron-builder": "26.17.0",
+    "esbuild": "^0.28.2",
+    "lucide-static": "1.55.0",
+    "marked": "^18.0.9",
+    "playwright": "1.64.0",
+    "prosemirror-commands": "1.7.2",
+    "prosemirror-gapcursor": "1.4.1",
+    "prosemirror-history": "1.5.1",
+    "prosemirror-inputrules": "1.5.1",
+    "prosemirror-keymap": "1.2.3",
+    "prosemirror-model": "1.25.12",
+    "prosemirror-schema-list": "1.5.1",
+    "prosemirror-state": "1.4.4",
+    "prosemirror-transform": "1.12.2",
+    "prosemirror-view": "1.42.6",
+    "sql.js": "1.14.2"
+  }
+}
